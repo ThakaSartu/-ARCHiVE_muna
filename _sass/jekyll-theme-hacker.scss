@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&family=Ubuntu:wght@300&display=swap');
 @import "rouge-base16-dark";
 @import "default_colors";
 
@@ -21,7 +22,7 @@ body {
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 /* General & 'Reset' Stuff */
@@ -64,7 +65,7 @@ header h1 {
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: 'Rubik Burned', cursive;
   color: $conifer;//$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -442,7 +443,7 @@ text-align: left;
 	
 .some-page-wrapper {
   margin: 15px;
-  background-color: ##23b2ff;
+  background-color: #23b2ff;
 }
 
 .row {
