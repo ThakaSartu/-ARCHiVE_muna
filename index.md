@@ -10,7 +10,7 @@ rashardThaka@github.io ~>./Muna --debug > MunaIsMyWiFE.txt | cat MunaIsMyWiFE.tx
 Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
 {% endhighlight %}
 
-rashardThaka@github.io ~> Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
+rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
 
 ## Hole To Another Universe 
 <ul>
@@ -20,13 +20,10 @@ rashardThaka@github.io ~> Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksD
  <li><a href="https://twitter.com/munilong">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
 </ul>
 </span>
-{% highlight python %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
-3 # ANOTHER###############################################
-4 # UNiVERSE##############################################
-{% endhighlight %}
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1142191735&color=%23e0c0b9&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/soulsearchanddestroy" title="SoulSearchAndDestroy" target="_blank" style="color: #cccccc; text-decoration: none;">SoulSearchAndDestroy</a> · <a href="https://soundcloud.com/soulsearchanddestroy/sets/makeup-commercials" title="Makeup Commercials (Vaporwave - Mallsoft - Electronic)" target="_blank" style="color: #cccccc; text-decoration: none;">Makeup Commercials (Vaporwave - Mallsoft - Electronic)</a></div>
+
+[Voyage (Chillwave - Synthwave - Retrowave Mix)](https://www.youtube.com/watch?v=r4J5nKy6dDw)
 ### Check_Out_This HOME::MiXTAPE::
 [HEAR_iT_RiGHT](https://pro.sony/ue_US/products/headphones/mdr-7506) [COMFORTABLY_LOUD](https://www.denon.com/en-us/product/av-receivers/avr-x4700h)
 [The Very Best Of... HOME (#ChillWave/#SynthWave) {V O L. 1}](https://www.youtube.com/watch?v=CIdl2DXnnAY)
@@ -217,6 +214,12 @@ A second is a minute, every hour's infinite
     <li>3 # ANOTHER###SANDBOX####################################</li>
     <li>4 # UNiVERSALCONTACKT####################################</li>
  </ul>
+ {% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE##############################################
+{% endhighlight %}
 </div> 
 
 
