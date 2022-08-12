@@ -5,21 +5,23 @@
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 <span class="neonText">
 One day my blog will `RETURN` `true` when run from the command line 
-</span>
+
 
 ## Hole To Another Universe 
-<ul class="neonText">
+<ul>
  <li><a href="https://thakarashard.github.io/BUBBLEGUMPOP_MUNA/">1 ###BUBBLEGUMPOP_MUWAH###BLOG###########היים##</a></li>
  <li><a href="https://soundcloud.com/munilong">2 ###TO_MUNi_LONG'S##SOUNDCLOUD##################</a></li>
  <li><a href="https://www.munilong.com/">3 # MY_RECORD_LABEL########################</a></li>
  <li><a href="https://twitter.com/munilong">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
 </ul>
+</span>
 {% highlight python %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 {% endhighlight %}
+
 <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/Illustrator_v5.5_Disk_1_Installer_0199_7626Adobe_Systems_Inc.May_1994_Front_1000x.png" alt="iLLUSTRATOR_ON_FLOPPY" >
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/bW-74U5xuf4" title="FX the video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/MunaisMYWiFE.PNG" alt="##HUMA_AHMED_SELASSIE_IS_MY_SISTER_ASWELL_AS_TASHI_and_ERIKA_iN_CHRiST_SARTU_iN_ADOPTiON" >
