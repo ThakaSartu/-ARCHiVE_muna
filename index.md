@@ -26,6 +26,20 @@ rashardThaka@github.io ~> Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksD
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 {% endhighlight %}
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/134415856_1825075690987413_3082916868632817853_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=c2H_9bCBCD8AX8cSanV&_nc_ht=scontent-lax3-2.xx&oh=00_AT8uIYO7qhG-rL5NFca6PLebXUzFwcAk_sjS8e9P8W3mmQ&oe=631E3197">
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/Tc4mRi7W2Ls"  target="_blank"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/134415856_1825075690987413_3082916868632817853_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=c2H_9bCBCD8AX8cSanV&_nc_ht=scontent-lax3-2.xx&oh=00_AT8uIYO7qhG-rL5NFca6PLebXUzFwcAk_sjS8e9P8W3mmQ&oe=631E3197"> </a>
+         </div>
+    </div>
+  </div>
+</div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/488087001&color=%23edeceb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bahamadia" title="Bahamadia" target="_blank" style="color: #cccccc; text-decoration: none;">Bahamadia</a> · <a href="https://soundcloud.com/bahamadia/dialed-up-vol-2-feat-ohene" title="Dialed Up Vol. 2 (feat. Ohene Savant, Dave ghetto, Rasco, Groove Da Moast, Kev Brown, Prozack Turner, Fat Nice, Geechie Suede, &amp; Zumi)" target="_blank" style="color: #cccccc; text-decoration: none;">Dialed Up Vol. 2 (feat. Ohene Savant, Dave ghetto, Rasco, Groove Da Moast, Kev Brown, Prozack Turner, Fat Nice, Geechie Suede, &amp; Zumi)</a></div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/488311404&color=%23bf3d2d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bahamadia" title="Bahamadia" target="_blank" style="color: #cccccc; text-decoration: none;">Bahamadia</a> · <a href="https://soundcloud.com/bahamadia/pep-talk" title="Pep Talk" target="_blank" style="color: #cccccc; text-decoration: none;">Pep Talk</a></div>
 [Teens have abandoned Facebook, Pew study says ::: by, Amanda Silberling](https://techcrunch.com/2022/08/11/teens-abandoned-facebook-pew-study/)
