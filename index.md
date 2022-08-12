@@ -26,7 +26,8 @@ rashardThaka@github.io ~> Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksD
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 {% endhighlight %}
-
+<img src="https://pbs.twimg.com/media/DhVpEPHWsAEgRTR?format=jpg&name=4096x4096">
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/6VCdJyOAQYM" title="Arrested Development - Tennessee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/511197930&color=%237d4c1d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/littledragon" title="Little Dragon" target="_blank" style="color: #cccccc; text-decoration: none;">Little Dragon</a> · <a href="https://soundcloud.com/littledragon/lover-chanting" title="Lover Chanting" target="_blank" style="color: #cccccc; text-decoration: none;">Lover Chanting</a></div>
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/yiSTcdi82S0" title="Little Dragon - Lover Chanting (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a alt="Remember_JUNE10th2019_YOU_LEFT_ME_AT_THE_ALTER_DUDE" href="https://youtu.be/fxApX5THqbA"><img src="https://www.typedifferent.com/fonts/bd_algebra/bd_algebra_example2.jpg" > </a>
