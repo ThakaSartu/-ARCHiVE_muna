@@ -91,7 +91,7 @@ header h1 {
 
 header h1:before {
   content: "./BUBBLEGUMPOP_MUNA ";
-  font-size: 70px;
+  font-size: 50px;
 }
 
 header h2 {
@@ -289,6 +289,8 @@ iframe {
 
 p
 {
+  background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,0.7768595041322314) 0%, rgba(72,83,89,0.8292011019283747) 35%, rgba(176,185,191,0.7768595041322314) 100%);
   background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif");
 }
 	
@@ -306,6 +308,8 @@ h3 {
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
     center repeat;
   font-weight: 900;
+  background: rgb(0,0,0);
+background: linear-gradient(278deg, rgba(0,0,0,0.7768595041322314) 0%, rgba(72,83,89,0.8292011019283747) 35%, rgba(176,185,191,0.7768595041322314) 100%);
   padding: 0px;
   margin: 0px;
   text-align: left;
