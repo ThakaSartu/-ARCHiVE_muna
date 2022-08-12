@@ -8,7 +8,7 @@ One day my blog will `RETURN` `true` when run from the command line
 </span>
 
 ## Hole To Another Universe 
-<ul>
+<ul class="neonText">
  <li><a href="https://thakarashard.github.io/BUBBLEGUMPOP_MUNA/">1 ###BUBBLEGUMPOP_MUWAH###BLOG###########היים##</a></li>
  <li><a href="https://soundcloud.com/munilong">2 ###TO_MUNi_LONG'S##SOUNDCLOUD##################</a></li>
  <li><a href="https://www.munilong.com/">3 # MY_RECORD_LABEL########################</a></li>
@@ -28,7 +28,8 @@ One day my blog will `RETURN` `true` when run from the command line
 <img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/muna_i_wanna_BULLiT_LiKE_JEFFS7.PNG">
 <img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/muna_i_wanna_BULLiT_LiKE_JEFFS.PNG">
 
- <div class="neonText">Hole to another universe 
+ <div class="neonText">
+## Hole to another universe 
  <ul>
     <li>1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG######################</li>
     <li>2 # TO###MY_RESUME#######################################</li>
