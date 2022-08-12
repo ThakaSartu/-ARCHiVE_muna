@@ -27,9 +27,18 @@ rashardThaka@github.io ~> Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksD
 4 # UNiVERSE##############################################
 {% endhighlight %}
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/511197930&color=%237d4c1d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/littledragon" title="Little Dragon" target="_blank" style="color: #cccccc; text-decoration: none;">Little Dragon</a> · <a href="https://soundcloud.com/littledragon/lover-chanting" title="Lover Chanting" target="_blank" style="color: #cccccc; text-decoration: none;">Lover Chanting</a></div>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/yiSTcdi82S0" title="Little Dragon - Lover Chanting (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a alt="Remember_JUNE10th2019_YOU_LEFT_ME_AT_THE_ALTER_DUDE" href="https://youtu.be/fxApX5THqbA"><img src="https://www.typedifferent.com/fonts/bd_algebra/bd_algebra_example2.jpg" > </a>
+<a alt="Remember_JUNE10th2019_YOU_LEFT_ME_AT_THE_ALTER_DUDE" href="https://youtu.be/fxApX5THqbA"><img src="https://www.typedifferent.com/fonts/bd_algebra/bd_algebra_example1.jpg" > </a>
+
+[The Easy Way to Add Fonts to Your Website (Including Custom Fonts)](https://www.pagecloud.com/blog/how-to-add-custom-fonts-to-any-website)
+[Gotye - Somebody That I Used To Know (feat. Kimbra)](https://www.youtube.com/watch?v=8UVNT4wvIGY)
 
 <img src="https://www.typedifferent.com/fonts/bd_alustar/bd_alustar_example1.jpg">
 <img src="https://www.typedifferent.com/fonts/bd_alustar/bd_alustar_example2.jpg">
+
+
 
 [Gotye - Somebody That I Used To Know (feat. Kimbra)](https://www.youtube.com/watch?v=8UVNT4wvIGY)
 <img src="https://www.typedifferent.com/fonts/bd_doomed/bd_doomed_example1.jpg">
