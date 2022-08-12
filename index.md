@@ -12,7 +12,7 @@
 
 <iframe width="100%" height="601" src="https://www.youtube.com/embed/FJZ-BHBKyos" title="[HD] Greatest Hollywood Car Chase of All Time - Bullitt (1968)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="601" src="https://www.youtube.com/embed/TYw-xygF5Pc" title="775 hp Supercharged Bullitt Mustang Steve McQueen Edition from Steeda" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<img src="https://github.com/ThakaRashard/BUBBLEGUMPOP_MUNA/blob/master/assets/images/muna_i_wanna_BULLiT_LiKE_JEFFS7.PNG">
+<img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/muna_i_wanna_BULLiT_LiKE_JEFFS7.PNG">
 <img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/muna_i_wanna_BULLiT_LiKE_JEFFS.PNG">
 
 ```
