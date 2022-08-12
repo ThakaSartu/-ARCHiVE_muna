@@ -5,9 +5,10 @@
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 <span class="neonText">
 One day my blog will `RETURN` `true` when run from the command line!
-rashardThaka@github.io ~>./Muna 
+{% highlight python %}
+rashardThaka@github.io ~>./Muna --debug > MunaIsMyWiFE.txt | cat MunaIsMyWiFE.txt | grep -i [A-Z,a-z]tube 
 Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
-
+{% endhighlight %}
 
 ## Hole To Another Universe 
 <ul>
