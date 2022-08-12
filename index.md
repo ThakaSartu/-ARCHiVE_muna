@@ -26,55 +26,71 @@ rashardThaka@github.io ~> Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksD
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 {% endhighlight %}
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/1internet.PNG" />
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://youtu.be/Tc4mRi7W2Ls" target="_blank"><img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/2internet.PNG" /> </a>
+         </div>
+    </div>
+  </div>
+</div>
+[The Internet - Girl (Official Video) ft. KAYTRANADA](https://youtu.be/zmY8mG4_3j4)
 <img src="https://i.ebayimg.com/images/g/ZOMAAOSwxdthqv16/s-l1600.jpg" /></p>
 
-<p><a href="https://www.youtube.com/watch?v=-gA86OIyK2U">Taylor Swift - Reputation Full Album</a></p>
-<div class="twoPanelSpread">
-  <div class="row">
-    <div class="panelColumn">
-      <div class="leftColumn">
-        <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/93310590_1582132758615042_6825306789781700608_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=9cjcl3UVax4AX8Nd8BC&amp;_nc_ht=scontent-lax3-2.xx&amp;oh=00_AT-BCP0MBCLYQT_5_JPjFYEPdW5GRpwFzxX8UPs9-jOUBw&amp;oe=631A53D4" />
+[Taylor Swift - Reputation Full Album](https://www.youtube.com/watch?v=-gA86OIyK2U)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/93310590_1582132758615042_6825306789781700608_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=9cjcl3UVax4AX8Nd8BC&_nc_ht=scontent-lax3-2.xx&oh=00_AT-BCP0MBCLYQT_5_JPjFYEPdW5GRpwFzxX8UPs9-jOUBw&oe=631A53D4">
         </div>
     </div>
-    <div class="panelColumn">
-      <div class="rightColumn">
-        <a href="https://youtu.be/Tc4mRi7W2Ls" target="_blank"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/93310590_1582132758615042_6825306789781700608_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=9cjcl3UVax4AX8Nd8BC&amp;_nc_ht=scontent-lax3-2.xx&amp;oh=00_AT-BCP0MBCLYQT_5_JPjFYEPdW5GRpwFzxX8UPs9-jOUBw&amp;oe=631A53D4" /> </a>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/Tc4mRi7W2Ls"  target="_blank"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/93310590_1582132758615042_6825306789781700608_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=9cjcl3UVax4AX8Nd8BC&_nc_ht=scontent-lax3-2.xx&oh=00_AT-BCP0MBCLYQT_5_JPjFYEPdW5GRpwFzxX8UPs9-jOUBw&oe=631A53D4"> </a>
          </div>
     </div>
   </div>
 </div>
 
-<div class="twoPanelSpread">
-  <div class="row">
-    <div class="panelColumn">
-      <div class="leftColumn">
-        <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/93256847_1582133055281679_5504436309961211904_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=ySvZa1BDNukAX-pELgP&amp;_nc_ht=scontent-lax3-2.xx&amp;oh=00_AT-IK8Gjj31idEhpFAhQCeqRhsE8TwyuNdB5XBjZ2X8n4A&amp;oe=63191D7A" />
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/93256847_1582133055281679_5504436309961211904_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ySvZa1BDNukAX-pELgP&_nc_ht=scontent-lax3-2.xx&oh=00_AT-IK8Gjj31idEhpFAhQCeqRhsE8TwyuNdB5XBjZ2X8n4A&oe=63191D7A">
         </div>
     </div>
-    <div class="panelColumn">
-      <div class="rightColumn">
-        <a href="https://youtu.be/Tc4mRi7W2Ls" target="_blank"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/93376843_1582132635281721_8318145466621493248_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=IK4e7KIz3pIAX8XuFPC&amp;_nc_ht=scontent-lax3-1.xx&amp;oh=00_AT8mqASUZNz1P-9nueOVw4MrODh6iBXGEtKe3Bkb_s295g&amp;oe=631AB08E" /> </a>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/Tc4mRi7W2Ls"  target="_blank"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/93376843_1582132635281721_8318145466621493248_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=IK4e7KIz3pIAX8XuFPC&_nc_ht=scontent-lax3-1.xx&oh=00_AT8mqASUZNz1P-9nueOVw4MrODh6iBXGEtKe3Bkb_s295g&oe=631AB08E"> </a>
          </div>
     </div>
   </div>
 </div>
-<div class="twoPanelSpread">
-  <div class="row">
-    <div class="panelColumn">
-      <div class="leftColumn">
-        <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/93279851_1582132658615052_1334398063434792960_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=UyQi2pHY_GEAX8luaGU&amp;_nc_ht=scontent-lax3-2.xx&amp;oh=00_AT_38aVY2oiNh-Sz3LhU-OYciaCnnW65gZc_zV7v2KnqDQ&amp;oe=631C0839" />
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/93279851_1582132658615052_1334398063434792960_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=UyQi2pHY_GEAX8luaGU&_nc_ht=scontent-lax3-2.xx&oh=00_AT_38aVY2oiNh-Sz3LhU-OYciaCnnW65gZc_zV7v2KnqDQ&oe=631C0839">
         </div>
     </div>
-    <div class="panelColumn">
-      <div class="rightColumn">
-        <a href="https://youtu.be/Tc4mRi7W2Ls" target="_blank"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/93702218_1582132698615048_8440967963485405184_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=Xxw0Igm9750AX8XZlvY&amp;_nc_ht=scontent-lax3-1.xx&amp;oh=00_AT_AQk289243I7AGqop5jqYQk5FFWFcqAj2VeTKD6KL9jQ&amp;oe=63198DC2" /> </a>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/Tc4mRi7W2Ls"  target="_blank"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/93702218_1582132698615048_8440967963485405184_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=Xxw0Igm9750AX8XZlvY&_nc_ht=scontent-lax3-1.xx&oh=00_AT_AQk289243I7AGqop5jqYQk5FFWFcqAj2VeTKD6KL9jQ&oe=63198DC2"> </a>
          </div>
     </div>
   </div>
 </div>
-<p><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/93329857_1582132705281714_2168718181059788800_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=Ap7J0vKR6JYAX8Gcnh2&amp;_nc_oc=AQmRT1Y7RKrkqOm0FqfhEKB4S_yPoFQzXVFDS08QSR3s8jrpsd25F0vs9_CZYW1zHmc&amp;_nc_ht=scontent-lax3-2.xx&amp;oh=00_AT_lMCchV8BPb5coPgpAsdVTAkOqf0vlRYA4QcUvugKPjw&amp;oe=63194EB7" /></p>
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/93329857_1582132705281714_2168718181059788800_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=Ap7J0vKR6JYAX8Gcnh2&_nc_oc=AQmRT1Y7RKrkqOm0FqfhEKB4S_yPoFQzXVFDS08QSR3s8jrpsd25F0vs9_CZYW1zHmc&_nc_ht=scontent-lax3-2.xx&oh=00_AT_lMCchV8BPb5coPgpAsdVTAkOqf0vlRYA4QcUvugKPjw&oe=63194EB7">
 
-<p><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg" /></p>
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg">
 
 <p><a href="https://www.youtube.com/watch?v=zbdsWwABKZo">INOJ - Time After Time (Video)</a>
 <a href="https://www.youtube.com/watch?v=q96o9AvJO0M">INOJ - Love You Down</a>
