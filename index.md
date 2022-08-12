@@ -27,6 +27,10 @@ rashardThaka@github.io ~> Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksD
 4 # UNiVERSE##############################################
 {% endhighlight %}
 
+
+<img src="https://www.typedifferent.com/fonts/bd_alustar/bd_alustar_example1.jpg">
+<img src="https://www.typedifferent.com/fonts/bd_alustar/bd_alustar_example2.jpg">
+
 [Gotye - Somebody That I Used To Know (feat. Kimbra)](https://www.youtube.com/watch?v=8UVNT4wvIGY)
 <img src="https://www.typedifferent.com/fonts/bd_doomed/bd_doomed_example1.jpg">
 <img src="https://www.typedifferent.com/fonts/bd_doomed/bd_doomed_example2.jpg" >
