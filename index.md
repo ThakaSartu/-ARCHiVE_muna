@@ -4,7 +4,7 @@
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 <span class="neonText">
-One day my blog will `RETURN` `true` when run from the command line 
+One day my blog will `RETURN` `true` when run from the command line Muna is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
 
 
 ## Hole To Another Universe 
@@ -22,6 +22,31 @@ One day my blog will `RETURN` `true` when run from the command line
 4 # UNiVERSE##############################################
 {% endhighlight %}
 
+## DEAR_MUNA:: 
+[Hook: Jim James]
+Dear God, I'm trying hard to reach you
+Dear God, I see your face in all I do
+Sometimes, it's so hard to believe in
+But God, I know you have your reasons
+
+[Verse 2: Black Thought](https://genius.com/The-roots-dear-god-20-lyrics)
+Uh-huh, yeah, it's still me, one of your biggest fans
+I get off work, right back to work again
+I probably need to go ahead and have my head exam
+Look how they got me on the Def Jam payment plan
+Well, I'm in the world of entertainment and
+Tryna keep a singing man sane for the paying fans
+If I don't make it through the night, slight change of plans
+Harp strings, angel wings and praying hands
+Lord, forgive me for my shortcomings
+For going on tour and ignoring the court summons
+All I'm tryna do is live life to the fullest
+They sent my daddy to you in a barrage of bullets
+Why is the world ugly when you made it in your image?
+And why is living life such a fight to the finish?
+For this high percentage, when the sky's the limit
+A second is a minute, every hour's infinite
+<iframe width="893" height="502" src="https://www.youtube.com/embed/32Qr5oKKP-M" title="The Roots - Dear God 2.0 ft. Monsters Of Folk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [CSS Grid Layout model | Explained](https://linuxhint.com/css-grid-layout-model/) 
 <iframe width="100%" height="502" src="https://www.youtube.com/embed/-8BEKvoetHo" title="Oromia Pastoralist Association, Ethiopia/Kenya - Equator Prize 2015 Winner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/Illustrator_v5.5_Disk_1_Installer_0199_7626Adobe_Systems_Inc.May_1994_Front_1000x.png" alt="iLLUSTRATOR_ON_FLOPPY" >
