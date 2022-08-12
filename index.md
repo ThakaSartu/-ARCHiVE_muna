@@ -27,6 +27,12 @@ rashardThaka@github.io ~> Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksD
 4 # UNiVERSE##############################################
 {% endhighlight %}
 
+### Check_Out_This HOME::MiXTAPE::
+[HEAR_iT_RiGHT](https://pro.sony/ue_US/products/headphones/mdr-7506) [COMFORTABLY_LOUD](https://www.denon.com/en-us/product/av-receivers/avr-x4700h)
+[The Very Best Of... HOME (#ChillWave/#SynthWave) {V O L. 1}](https://www.youtube.com/watch?v=CIdl2DXnnAY)
+<img src="https://www.denon.com/-/media/images/denon/avr-x4700h/avr-x4700h-1a_19102020_1.jpg?w=1220&h=780" >
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1019285710&color=%23979590&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/home-2001" title="HOME" target="_blank" style="color: #cccccc; text-decoration: none;">HOME</a> · <a href="https://soundcloud.com/home-2001/resonance" title="Resonance" target="_blank" style="color: #cccccc; text-decoration: none;">Resonance</a></div>
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/101688294_1625065740988410_7569789355649138688_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=At6LsgSxsI4AX9IfbrF&_nc_ht=scontent-lax3-2.xx&oh=00_AT-kY5GQ3LkMuZo8qWeOXHFkTvVRtSE1tSqz76sTlO5rUg&oe=631A7D23" alt="Muna Perve fucked wit dis mexican flowershop, so Im still on your trail babe... im mad, but some icecream might be a good ice breaker" >
 
 ### Muna, 
