@@ -26,7 +26,7 @@ rashardThaka@github.io ~> Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksD
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 {% endhighlight %}
-
+<iframe width="631" height="340" src="https://www.youtube.com/embed/H0b9wvJfO28" title="Enter The Dragon(1973) - Original Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## DEAR_MUNA:: 
 [Hook: Jim James]
 Dear God, I'm trying hard to reach you
@@ -51,7 +51,7 @@ Why is the world ugly when you made it in your image?
 And why is living life such a fight to the finish?
 For this high percentage, when the sky's the limit
 A second is a minute, every hour's infinite
-<iframe width="893" height="502" src="https://www.youtube.com/embed/32Qr5oKKP-M" title="The Roots - Dear God 2.0 ft. Monsters Of Folk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="502" src="https://www.youtube.com/embed/32Qr5oKKP-M" title="The Roots - Dear God 2.0 ft. Monsters Of Folk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [CSS Grid Layout model | Explained](https://linuxhint.com/css-grid-layout-model/) 
 <iframe width="100%" height="502" src="https://www.youtube.com/embed/-8BEKvoetHo" title="Oromia Pastoralist Association, Ethiopia/Kenya - Equator Prize 2015 Winner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/Illustrator_v5.5_Disk_1_Installer_0199_7626Adobe_Systems_Inc.May_1994_Front_1000x.png" alt="iLLUSTRATOR_ON_FLOPPY" >
