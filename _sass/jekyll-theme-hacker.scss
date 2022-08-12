@@ -79,14 +79,14 @@ header h1 {
 
 
 header h1:before {
-  content: "./ ";
-  font-size: 24px;
+  content: "./BUBBLEGUMPOP_MUNA ";
+  font-size: 70px;
 }
 
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #666;
+  color: #fff;
 }
 
 #downloads .btn {
@@ -210,12 +210,11 @@ hr {
   display: inline-block;
   background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.3), rgba(35, 35, 35, 0.3) 50%, rgba(10, 10, 10, 0.3) 50%, rgba(0, 0, 0, 0.3));
   padding: 8px 18px;
-  border-radius: 50px;
+  border-radius: 0px;
   border: 2px solid rgba(0, 0, 0, 0.7);
   border-bottom: 2px solid rgba(0, 0, 0, 0.7);
   border-top: 2px solid rgba(0, 0, 0, 1);
   color: rgba(255, 255, 255, 0.8);
-  font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-size: 13px;
   text-decoration: none;
@@ -272,9 +271,7 @@ a {
 body {
   color: white;
 	 background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop.jpg) no-repeat center center fixed; 
-  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
-    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-family: Ubuntu, sans-serif;
   line-height: 1.5;
    -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -307,9 +304,6 @@ h3 {
   background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
     center repeat;
-  font-family: "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif, -apple-system, Monaco, 
-    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell;
   font-weight: 900;
   padding: 0px;
   margin: 0px;
@@ -321,7 +315,6 @@ h3 {
 
 h2 {
 font-weight: 900;
-font-family: "Helvetica Neue", sans-serif, "Lucida Console", Terminal;
 padding: 0px;
 margin: 0px;
 text-align: left;
@@ -331,9 +324,6 @@ text-align: left;
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
     0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
-  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
-    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   float: left;
   font-size: 75px;
   line-height: 60px;
@@ -346,9 +336,7 @@ text-align: left;
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
     0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
-  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
-    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+
 }
 
 .storyBox {
