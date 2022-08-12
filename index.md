@@ -9,10 +9,10 @@ One day my blog will `RETURN` `true` when run from the command line
 
 ## Hole To Another Universe 
 <ul>
- <li><a href="https://t.ly/XWoc">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG###########היים##</a></li>
- <li><a href="https://thakarashard.github.io/RESUME/">2 # TO###MY_RESUME################################</a></li>
- <li><a href="#contact">3 # ANOTHER###SANDBOX#############################</a></li>
- <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
+ <li><a href="https://thakarashard.github.io/BUBBLEGUMPOP_MUNA/">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG###########היים##</a></li>
+ <li><a href="https://soundcloud.com/munilong">2 ###TO_MUNi_LONG'S##SOUNDCLOUD##################</a></li>
+ <li><a href="https://www.munilong.com/">3 # MY_RECORD_LABEL########################</a></li>
+ <li><a href="https://twitter.com/munilong">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
 </ul>
 {% highlight python %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
