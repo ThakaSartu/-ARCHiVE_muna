@@ -21,7 +21,7 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
 </ul>
 </span>
 <img src="https://images.ctfassets.net/8cd2csgvqd3m/ns6OSILKJGpVQwn7Or2Zp/1c94dbfbc6270fa67ee8e82fd63496fb/HX_Timber_3.png" >
-<video muted autoplay="" playsinline="" loop=""  preload="auto"><source src="//videos.ctfassets.net/8cd2csgvqd3m/6jVnEMWCFqTvL9Mfa8YaJN/03f6522dec3a0371af4058a97300bbf0/220121_B_O_HX_9X16_CLEAN_FINAL.mp4" type="video/mp4"></video>
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1142191735&color=%23e0c0b9&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/soulsearchanddestroy" title="SoulSearchAndDestroy" target="_blank" style="color: #cccccc; text-decoration: none;">SoulSearchAndDestroy</a> · <a href="https://soundcloud.com/soulsearchanddestroy/sets/makeup-commercials" title="Makeup Commercials (Vaporwave - Mallsoft - Electronic)" target="_blank" style="color: #cccccc; text-decoration: none;">Makeup Commercials (Vaporwave - Mallsoft - Electronic)</a></div>
 
 [Voyage (Chillwave - Synthwave - Retrowave Mix)](https://www.youtube.com/watch?v=r4J5nKy6dDw)
