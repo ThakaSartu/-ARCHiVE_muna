@@ -10,6 +10,8 @@ rashardThaka@github.io ~>./Muna --debug > MunaIsMyWiFE.txt | cat MunaIsMyWiFE.tx
 Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
 {% endhighlight %}
 
+rashardThaka@github.io ~> Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
+
 ## Hole To Another Universe 
 <ul>
  <li><a href="https://thakarashard.github.io/BUBBLEGUMPOP_MUNA/">1 ###BUBBLEGUMPOP_MUWAH###BLOG###########היים##</a></li>
