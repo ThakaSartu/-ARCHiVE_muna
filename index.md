@@ -14,6 +14,11 @@ Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
 
 rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
 
+## J. Cole's documentary on HomeWrecking
+Muna this shit dope, he even stars in the shit... This kind of content ensures it would never happen iRL witha conscience niggah liyke dat owwn da mic... Luke know his ass
+<iframe width="100%" height="375" src="https://www.youtube.com/embed/jYdaQJzcAcw" title="J. Cole - She Knows (Explicit Video) ft. Amber Coffman, Cults" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="375" src="https://www.youtube.com/embed/jYdaQJzcAcw" title="J. Cole - She Knows (Explicit Video) ft. Amber Coffman, Cults" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Wet Dreamz](https://www.youtube.com/watch?v=lTgvsJY4aYE)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/AVrNHI4RdPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
