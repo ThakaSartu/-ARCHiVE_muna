@@ -39,13 +39,58 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
 {% endhighlight %}
 </div> 
 
+[What’s Cognitive Resonance?](https://medium.com/cognitive-resonance/whats-cognitive-resonance-7e9922d36290)
+<img src="https://miro.medium.com/max/610/1*t-pNa0hr49HeO1iSkqnnMQ.png">
+<img src="[https://miro.medium.com/max/610/1*t-pNa0hr49HeO1iSkqnnMQ.png](https://www.quora.com/Is-a-twin-flame-relationship-a-past-life-connection)">
+
+## SOUL_SCiENCE :: SOULMATE_TELEPATHY
+Soulmate connections are spiritually rewarding relationships that we experience with others who share a similar soul – or even the same oversoul, a relationship commonly described as between soul siblings.
+
+We can have many soulmates over the course of one lifetime. These connections, unlike the connection with our twin flame, are often fleeting and meet only a small number of our spiritual needs. This fits with their purpose.
+
+The purpose of a soulmate is to teach us a karmic lesson, as laid out before we were born in this world in the soulmate contract...[ReadMore](https://gostica.com/soul-science/these-are-the-signs-of-soulmate-telepathy/)
+[These Are The Signs Of Soulmate Telepathy::PRESENTED_By_GOSTiCA_dOt_cOm::SOUL SCIENCE_~> ](https://gostica.com/soul-science/these-are-the-signs-of-soulmate-telepathy/)
+
+[https://miro.medium.com/max/610/1*t-pNa0hr49HeO1iSkqnnMQ.png](https://www.quora.com/Is-a-twin-flame-relationship-a-past-life-connection)
+[Built From Scratch (CD) X-ecutioners](https://www.amoeba.com/built-from-scratch-cd-x-ecutioners/albums/1405861/)
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img src="https://d1466nnw0ex81e.cloudfront.net/n_iv/600/795435.jpg" />
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://youtu.be/Tc4mRi7W2Ls" target="_blank"><img src="https://d1466nnw0ex81e.cloudfront.net/n_iv/600/795435.jpg" /> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img src="https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6ImUyYWI2ODE3LWU1MTAtNGViZS05OWJhLThkZGQxZDlmZjRhMS5qcGciLCJlZGl0cyI6W119" />
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://youtu.be/Tc4mRi7W2Ls" target="_blank"><img src="https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6ImUyYWI2ODE3LWU1MTAtNGViZS05OWJhLThkZGQxZDlmZjRhMS5qcGciLCJlZGl0cyI6W119" /> </a>
+         </div>
+    </div>
+  </div>
+</div>
 <img src="https://cdn.shopify.com/s/files/1/0558/2081/files/Barrett_Transformers_Variant_Ext.jpg">
 <img src="https://www.pastposters.com/cw3/assets/product_expanded/JamieF-SV/transformers-movie-cinema-quad-movie-poster-(1).jpg">
 <div class="twoPanelSpread">
   <div class="row">
     <div class="panelColumn">
       <div class="leftColumn">
-        <img src="hhttps://cdn.shopify.com/s/files/1/1416/8662/products/empire_strikes_back_1980_insert_original_film_art_f_1200x.jpg" />
+        <img src="https://cdn.shopify.com/s/files/1/1416/8662/products/empire_strikes_back_1980_insert_original_film_art_f_1200x.jpg" />
         </div>
     </div>
     <div class="panelColumn">
