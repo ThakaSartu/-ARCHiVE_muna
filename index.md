@@ -44,7 +44,7 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
 
 [What’s Cognitive Resonance?](https://medium.com/cognitive-resonance/whats-cognitive-resonance-7e9922d36290)
 <img src="https://miro.medium.com/max/610/1*t-pNa0hr49HeO1iSkqnnMQ.png">
-<img src="[https://miro.medium.com/max/610/1*t-pNa0hr49HeO1iSkqnnMQ.png](https://www.quora.com/Is-a-twin-flame-relationship-a-past-life-connection)">
+<img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/01/Resonance_2880_Lede.jpg">
 
 ## SOUL_SCiENCE :: SOULMATE_TELEPATHY
 
