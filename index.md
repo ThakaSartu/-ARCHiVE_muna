@@ -47,11 +47,12 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
 <img src="[https://miro.medium.com/max/610/1*t-pNa0hr49HeO1iSkqnnMQ.png](https://www.quora.com/Is-a-twin-flame-relationship-a-past-life-connection)">
 
 ## SOUL_SCiENCE :: SOULMATE_TELEPATHY
-Soulmate connections are spiritually rewarding relationships that we experience with others who share a similar soul – or even the same oversoul, a relationship commonly described as between soul siblings.
+
+<p>Soulmate connections are spiritually rewarding relationships that we experience with others who share a similar soul – or even the same oversoul, a relationship commonly described as between soul siblings.
 
 We can have many soulmates over the course of one lifetime. These connections, unlike the connection with our twin flame, are often fleeting and meet only a small number of our spiritual needs. This fits with their purpose.
 
-The purpose of a soulmate is to teach us a karmic lesson, as laid out before we were born in this world in the soulmate contract...[ReadMore](https://gostica.com/soul-science/these-are-the-signs-of-soulmate-telepathy/)
+The purpose of a soulmate is to teach us a karmic lesson, as laid out before we were born in this world in the soulmate contract...[ReadMore](https://gostica.com/soul-science/these-are-the-signs-of-soulmate-telepathy/) </p>
 [These Are The Signs Of Soulmate Telepathy::PRESENTED_By_GOSTiCA_dOt_cOm::SOUL SCIENCE_~> ](https://gostica.com/soul-science/these-are-the-signs-of-soulmate-telepathy/)
 
 [Is a twin flame relationship a past life connection?](https://www.quora.com/Is-a-twin-flame-relationship-a-past-life-connection)
