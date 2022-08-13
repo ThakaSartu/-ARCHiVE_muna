@@ -13,26 +13,8 @@ Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
 {% endhighlight %}
 
 rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
-<div class="neonText">
-## Hole To Another Universe 
 
 
-
-
- <div class="neonText">
-## Hole to another universe 
- <ul>
-    <li><a href="https://thakarashard.github.io/BUBBLEGUMPOP_MUNA/">1 ###BUBBLEGUMPOP_MUWAH###BLOG###########היים##</a></li>
-    <li><a href="https://soundcloud.com/munilong">2 ###TO_MUNi_LONG'S##SOUNDCLOUD##################</a></li>
-    <li><a href="https://www.munilong.com/">3 # MY_RECORD_LABEL########################</a></li>
-    <li><a href="https://twitter.com/munilong">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
-    <li>1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG######################</li>
-    <li>2 # TO###MY_RESUME#######################################</li>
-    <li>3 # ANOTHER###SANDBOX####################################</li>
-    <li>4 # UNiVERSALCONTACKT####################################</li>
- </ul>
-
-</div> 
 
 ## Bringing Hyperlinks to Life
 ### by Dee_Dr_ERiC_MEYER
