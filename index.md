@@ -6,7 +6,8 @@
 <span class="neonText">
 One day my blog will `RETURN` `true` when run from the command line!
 </span>
-{% highlight python %}
+
+{% highlight ruby %}
 rashardThaka@github.io ~>./Muna --debug > MunaIsMyWiFE.txt | cat MunaIsMyWiFE.txt | grep -i [A-Z,a-z]tube 
 Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
 {% endhighlight %}
@@ -21,7 +22,8 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
  <li><a href="https://twitter.com/munilong">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
 </ul>
 </span>
-
+</div>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/m-a963Sd2dk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/509765250&color=%23683e30&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/shot-clock" title="Shot Clock" target="_blank" style="color: #cccccc; text-decoration: none;">Shot Clock</a></div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/m-a963Sd2dk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://cdn.shopify.com/s/files/1/0921/3560/products/sb-1000-pro-pgw_1024x.png?v=1612802714">
@@ -33,7 +35,42 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
 
 Sound great and as good as I expected. Still working on the positioning and I haven't reached the 40 hours of usage time yet, so excited to see how they sound going forward. To get the most out of them. You really need a good media source. Compressed media such as YouTube really limit their potential, but that is expected. I do recommend these speakers.
 
-***
+* * *
+<img src="https://pbs.twimg.com/media/DLhss_7WAAA62IM?format=jpg&name=small" >
+
+[The X-Ecutioners Built From Scratch 2002 Full Album](https://www.youtube.com/watch?v=VAyuCnX_bK8)
+[Xecutioners - Mad Flava (Album: X-Pressions)](https://www.youtube.com/watch?v=P9E_p538Slc)
+[Rob Swift - I'm Leaving](https://www.youtube.com/watch?v=fushfsow-tw)
+
+
+[Graffiti Session: APASHE](https://youtu.be/tGZ2_M-pf78)
+[Graffiti Session: TASTE](https://youtu.be/HOKoouQ6e-o)
+[Product Review: Chrome Test::BOMBiNG_SCiENCE](https://www.youtube.com/watch?v=HXSANKFHrFM)
+[BREAKFAST_iN_BEiEAD_WRKS New York DJ Red Alert Mixes October 1984.wmv](https://www.youtube.com/watch?v=w8va-oDxTNc) 
+[Learn How to Scratch Vol. 1 with Kool DJ Red Alert ::Home Boys Videos Plus, 1989::](https://www.youtube.com/watch?v=A0k7HpoRqqE)
+[Can Control - Everything You Need To know](https://youtu.be/S8sBIUYhvnc)
+[How To Graffiti Pieces: Everything You Need To Know!](https://youtu.be/ALvLLOHFfog)
+[Can Control - Everything You Need To know](https://youtu.be/S8sBIUYhvnc)
+[HOW TO EASILY SHADE GRAFFITI](https://www.youtube.com/watch?v=U9TL6Ot5wPc)
+[The End of Ford in America](https://www.youtube.com/watch?v=Ppd8ZxvAJKc)
+[5 Things You Should Never Do in an Automatic Transmission Car](https://www.youtube.com/watch?v=sDFOr68dziY)
+[Stop Watching the Election and Riots, All Americans Need to Hear This](https://www.youtube.com/watch?v=ZS_LNpQZcug)
+[Nick's MAMMOTH *767WHP* Kenne Bell Terminator Cobra Vs. EVERYTHING at Powercruise USA 2020](https://www.youtube.com/watch?v=6aV7vKl-b-M)
+[NASTY 530 Horsepower Terminator Cobra Review!](https://www.youtube.com/watch?v=giZY9ObQjk0)
+[GRAMMAR_GiRL_:: LAURA_PLEASE_SHARE_WiTH_ESL](https://www.quickanddirtytips.com/grammar-girl)
+[QUiCK_and_DiRTY_TiPS](https://www.quickanddirtytips.com/)
+[Motown Greatest Hits](https://www.youtube.com/watch?v=lgVo2zJY-uc)
+[Kano - I'm Ready iiiiiiiii 1980](https://youtu.be/_LvTpjK-MEY) 
+[BMX_BEGiNNERS_MANUAL](http://www.learnbmxracing.com/includes/bmx-beginner-manual.pdf)
+[LEARN_BMX_RACiNG](http://www.learnbmxracing.com/)
+<img src="http://www.learnbmxracing.com/images/logo.svg" >
+
+[LEARN_BMX](https://www.learnbmx.com/)
+[History of BMX Bikes & Tracks](https://www.youtube.com/watch?v=r4efZAEyZ7o)
+[KKDA - Tom Joyner](https://www.youtube.com/watch?v=TCUxGoexjQw)
+[TOM_JOYNER_retired_DJ_STUDY](https://www.youtube.com/watch?v=kzICmAU-kPk)
+[GT Performer BMX ReSToRE!!](https://youtu.be/BQ_esbBSsgA)
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/NbDuET_eKS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/OXVpy5jaNsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://64.media.tumblr.com/67f31a62338fb5522e68f1314effce78/tumblr_inline_nn9yh1hnd61rop05l_1280.jpg">
@@ -365,3 +402,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+</span>
