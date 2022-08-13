@@ -15,6 +15,12 @@ Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
 rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
 
 
+## The Vision Of Rassan Medley: Dedication / Roll On Kirk :: HiFi_CLASSiCKS4AUDiOPHiLES
+
+<iframe width="100%" height="539" src="https://www.youtube.com/embed/n7Wjkg7UpK8" title="The Vision Of Rassan Medley: Dedication / Roll On Kirk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Eric Burdon - Declares War (1970 Full Album)](https://www.youtube.com/watch?v=OhuX8fFHP6I)
+
+<img src="https://www.graff-city.com/images/molotow-ny-fat-caps-p2915-12168_image.jpg">
 
 ## DEAR_HAYAT
 
