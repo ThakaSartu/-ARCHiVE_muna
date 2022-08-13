@@ -5,13 +5,14 @@
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 <span class="neonText">
 One day my blog will `RETURN` `true` when run from the command line!
+</span>
 {% highlight python %}
 rashardThaka@github.io ~>./Muna --debug > MunaIsMyWiFE.txt | cat MunaIsMyWiFE.txt | grep -i [A-Z,a-z]tube 
 Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
 {% endhighlight %}
 
 rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
-
+<div class="neonText">
 ## Hole To Another Universe 
 <ul>
  <li><a href="https://thakarashard.github.io/BUBBLEGUMPOP_MUNA/">1 ###BUBBLEGUMPOP_MUWAH###BLOG###########היים##</a></li>
@@ -19,7 +20,7 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
  <li><a href="https://www.munilong.com/">3 # MY_RECORD_LABEL########################</a></li>
  <li><a href="https://twitter.com/munilong">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
 </ul>
-</span>
+
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/m-a963Sd2dk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://cdn.shopify.com/s/files/1/0921/3560/products/sb-1000-pro-pgw_1024x.png?v=1612802714">
