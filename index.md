@@ -38,7 +38,39 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
 4 # UNiVERSE##############################################
 {% endhighlight %}
 </div> 
+<img src="https://i.imgur.com/TcEl9M7l.jpg">
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img src="https://static.wixstatic.com/media/c22431_07c3e91920aa49b7b2004519947a306d~mv2.jpg/v1/fill/w_350,h_350,al_c,q_90/c22431_07c3e91920aa49b7b2004519947a306d~mv2.webp" />
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://www.youtube.com/watch?v=XWXVLXP9Gz0" ><img src="https://static.wixstatic.com/media/c22431_07c3e91920aa49b7b2004519947a306d~mv2.jpg/v1/fill/w_350,h_350,al_c,q_90/c22431_07c3e91920aa49b7b2004519947a306d~mv2.webp" /> </a>
+         </div>
+    </div>
+  </div>
+</div>
 
+## Twin Flames - The Bubble Love Phase
+It's a euphoric bliss like state where the two feel like they live in their own dimension and many get sad when the stage ends as what comes up must come down. I however am of the belief that it can be made to last but it is depending on the spiritual maturity of the two in union...[ReadMore](https://www.whitewolfalchemy.com/single-post/2019/10/27/twin-flames-the-bubble-love-phase) [VisiT ~> WHiTE_WOLF_ALCHEMY](https://www.whitewolfalchemy.com)
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img src="https://static.wixstatic.com/media/c22431_42185e1274c34e5b8841c27d4aba31c3~mv2.jpg/v1/fill/w_500,h_670,al_c,q_90/c22431_42185e1274c34e5b8841c27d4aba31c3~mv2.jpg" />
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://www.youtube.com/watch?v=XWXVLXP9Gz0" ><img src="https://static.wixstatic.com/media/c22431_42185e1274c34e5b8841c27d4aba31c3~mv2.jpg/v1/fill/w_500,h_670,al_c,q_90/c22431_42185e1274c34e5b8841c27d4aba31c3~mv2.jpg" /> </a>
+         </div>
+    </div>
+  </div>
+</div>
 <a href="https://www.youtube.com/watch?v=XWXVLXP9Gz0"> [KOOL DJ RED ALERT - LIVE ON KISS FM (1984)] </a>
 
 [Twin Flames Telepathy Love Making: An Extraordinary Ability](https://twinflameguides.medium.com/twin-flames-telepathy-love-making-an-extraordinary-ability-59607ff8e520) 
