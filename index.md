@@ -17,13 +17,7 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
 ## Hole To Another Universe 
 
 
-<ul class="neonText">
- <li><a href="https://thakarashard.github.io/BUBBLEGUMPOP_MUNA/">1 ###BUBBLEGUMPOP_MUWAH###BLOG###########היים##</a></li>
- <li><a href="https://soundcloud.com/munilong">2 ###TO_MUNi_LONG'S##SOUNDCLOUD##################</a></li>
- <li><a href="https://www.munilong.com/">3 # MY_RECORD_LABEL########################</a></li>
- <li><a href="https://twitter.com/munilong">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
-</ul>
-</div>
+
 
  <div class="neonText">
 ## Hole to another universe 
@@ -37,13 +31,16 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
     <li>3 # ANOTHER###SANDBOX####################################</li>
     <li>4 # UNiVERSALCONTACKT####################################</li>
  </ul>
- {% highlight python %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
-3 # ANOTHER###############################################
-4 # UNiVERSE##############################################
-{% endhighlight %}
+
 </div> 
+
+## Bringing Hyperlinks to Life
+### by Dee_Dr_ERiC_MEYER
+Project 4
+
+Hyperlinks are what make the Web a web at all. Without them, we'd be forced to manually type in the address of every page we wanted to visit. We probably spend more of our time on the Web searching out the right links and interacting with them than we do anything else. But hyperlinks can be much more than simple text or graphics with the borders removed.
+
+In the course Project 4, the reader will explore ways to creatively style hyperlinks and see how to base their styles on various link states. This includes working with both graphic and text links, and explores ways to use CSS to make links behave in some surprising and useful ways...[ReadMore](http://www.ericmeyeroncss.com/projects/04/)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/PAFAfhod9TU" title="H.E.R. - Damage (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://m.media-amazon.com/images/I/61pq7p9UUTL._SS500_.jpg" alt="##TEMS_iS_MUNA_TOO?!?!">

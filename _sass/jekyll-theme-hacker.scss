@@ -194,6 +194,8 @@ code.highlighter-rouge {
 table {
   width: 100%;
   margin: 0 0 20px 0;
+  background: rgb(0,212,255);
+background: radial-gradient(circle, rgba(0,212,255,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 
 th {
@@ -249,10 +251,12 @@ hr {
   background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
-/* Links
-   a, a:hover, a:visited
-*/
 
+   a, a:hover, a:visited
+
+   a:hover {
+    color: #c9ff23;
+  }
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
@@ -521,9 +525,7 @@ text-align: left;
   align-items: center;
   overflow: hidden;
 }
-a:hover {
-  color: #c9ff23;
-}
+
 
 .divAlbumReview {
   background-image: url("https://m.media-amazon.com/images/I/41QKR5BJVZL.jpg");
