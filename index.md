@@ -38,6 +38,7 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
 4 # UNiVERSE##############################################
 {% endhighlight %}
 </div> 
+<img src="https://im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45a98e1ebb64f08283c25/vsco5fc45a9961d50.jpg" alt="##SKATE_THE_WORLD_BOOK::NATIONAL_GEOGRAPHIC" >
 <img src="https://assets.vogue.com/photos/5f9089a160138c079b7b38d5/16:9/w_1280,c_limit/00_social.jpg">
 <div class="pinupGallery">
   <img class="pinupImage featured-pinupImage" src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/bd2087144034631.62851b973d0ff.jpg" alt="">
@@ -45,6 +46,9 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
   <img class="pinupImage" src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/bd2087144034631.62851b973d0ff.jpg" alt="">
   <img class="pinupImage" src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/bd2087144034631.62851b973d0ff.jpg" alt="">
 </div>
+<img src="https://www.graffiti.org/atl/am71.jpg"> 
+<img src="https://www.graffiti.org/atl/anime4.jpg">
+<a href="https://youtu.be/DAc1MXEOLgY" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST">SarTu, like Kool DJ Red Alert check him out on<span class="neonText"> 98.7 Kiss-FM </span> (12-4-88) </a>
 <img src="https://www.graffiti.org/atl/joe1.jpg">
 <img src="https://www.graffiti.org/atl/eros1.jpg">
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5cf66bae52aad8210f45cbaf/vsco5cf66bafc30a6.jpg">
