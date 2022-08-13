@@ -16,12 +16,15 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
 
 
 ## DEAR_HAYAT+BEREAVMiNT
+
+<img src="https://cdn.shopify.com/s/files/1/0815/6851/products/a5_600x.jpg">
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/MYxAiK6VnXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Dear_Muna
 12ozProphet Memento Mori Patch, for my weakening backpack
 
-<img src="https://12ozprophet.com/collections/shop/products/12ozprophet-memento-mori-patch" >
+<img src="https://cdn.shopify.com/s/files/1/3005/5554/products/12ozprophet-memento-mori-patch_720x.jpg?v=1524111434" >
 
 <img src="https://cdn.shopify.com/s/files/1/0815/6851/products/K-MOP_medium@2x.png?v=1575931706">
 
