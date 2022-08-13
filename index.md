@@ -39,7 +39,6 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
 {% endhighlight %}
 </div> 
 
-https://i.pinimg.com/originals/72/ea/60/72ea602f7a68bf441aaf3fff6a42ee48.jpg
 
 [About Muwah](https://www.pinterest.com/drstankenstein/muna_ahmed_selassieakakellysearching_for/)
 <div class="twoPanelSpread">
