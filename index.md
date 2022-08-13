@@ -39,6 +39,45 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
 {% endhighlight %}
 </div> 
 
+
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img src="hhttps://cdn.shopify.com/s/files/1/1416/8662/products/empire_strikes_back_1980_insert_original_film_art_f_1200x.jpg" />
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://youtu.be/Tc4mRi7W2Ls" target="_blank"><img src="https://cdn.shopify.com/s/files/1/1416/8662/products/empire_strikes_back_1980_insert_original_film_art_f_1200x.jpg" /> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<img src="https://cdn.shopify.com/s/files/1/1057/4964/products/The-Empire-Strikes-Back-Vintage-Movie-Poster-Original-3-Sheet-41x81_a133c1b8-5a53-4a40-80d8-84f9f2f46222.jpg?v=1637722919">
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img src="https://m.media-amazon.com/images/I/71w1JI++RQL._SX522_.jpg" />
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://youtu.be/Tc4mRi7W2Ls" target="_blank"><img src="https://m.media-amazon.com/images/I/71w1JI++RQL._SX522_.jpg" /> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
+
+
+[NORIYOSHI OHRAI Art plus THE LAST JEDI MERCHANDISE REVEALED](https://milnersblog.com/category/star-wars/episode-viii/)
+
+<img src="https://milnersblog.files.wordpress.com/2015/11/rip-noriyoshi-ohrai-star-wars-the-empire-strikes-back-japanese-film-poster.jpg">
+<img src="https://soundapproach.com/media/catalog/product/cache/9d08971813a040f8f96067a40f75c615/2/0/20170103043522_83240.jpg">
+
 [HiFiMAN - Shangri La - Electrostatic Headphone/Amplifier System](https://soundapproach.com/hifiman-shangri-la-electrostatic-headphone-amplifier-system.html)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336696784&color=%23384241&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/rawkus-presents-soundbombing-ii-1999" title="Rawkus Presents Soundbombing II (1999)" target="_blank" style="color: #cccccc; text-decoration: none;">Rawkus Presents Soundbombing II (1999)</a></div>
 
@@ -160,6 +199,7 @@ Sound great and as good as I expected. Still working on the positioning and I ha
     </div>
   </div>
 </div>
+
 [The Internet - Girl (Official Video) ft. KAYTRANADA](https://youtu.be/zmY8mG4_3j4)
 <img src="https://i.ebayimg.com/images/g/ZOMAAOSwxdthqv16/s-l1600.jpg" /></p>
 
