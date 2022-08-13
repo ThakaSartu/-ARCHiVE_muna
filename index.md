@@ -62,8 +62,7 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
   <div class="row">
     <div class="panelColumn">
       <div class="leftColumn">
-        <img src="https://i.pinimg.com/564x/3a/46/2c/3a462c6836a5fe0d815f0c0b534b669d.jpg"
-" />
+        <img src="https://i.pinimg.com/564x/3a/46/2c/3a462c6836a5fe0d815f0c0b534b669d.jpg" />
         </div>
     </div>
     <div class="panelColumn">
@@ -82,8 +81,7 @@ rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J
     </div>
     <div class="panelColumn">
       <div class="rightColumn">
-        <a href="https://www.youtube.com/watch?v=XWXVLXP9Gz0" ><img src="https://static.wikia.nocookie.net/marveldatabase/images/3/38/Transformers_Universe_Vol_1_4.jpg
-" /> </a>
+        <a href="https://www.youtube.com/watch?v=XWXVLXP9Gz0" ><img src="https://static.wikia.nocookie.net/marveldatabase/images/3/38/Transformers_Universe_Vol_1_4.jpg" /> </a>
          </div>
     </div>
   </div>
