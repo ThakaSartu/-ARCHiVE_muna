@@ -14,6 +14,7 @@ Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
 
 rashardThaka@github.io ~> Muna Is a [Star](https://www.youtube.com/watch?v=LTz5J0VksDc)
 
+<img src="https://scitechdaily.com/images/Ballistic-Resonance.jpg">
 
 ## STREET_FigHTER
 ## FANDOM_CAPCOM
