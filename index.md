@@ -4,6 +4,9 @@
 One day my blog will `RETURN` `true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
+<img src="https://miro.medium.com/max/480/1*MGcLJS1ZvMFcBA94PXn16Q.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" >
+    
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/pvYOSuz8yG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/MQs22Kt-vZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
