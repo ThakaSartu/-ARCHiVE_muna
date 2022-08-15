@@ -1,12 +1,11 @@
 
 
 ## Hole To Another Universe
-
-<p class="neonText">One day my blog will `RETURN` `true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!</p>
+One day my blog will `RETURN` `true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1816135065214809%2F&show_text=false&width=476&t=0" width="100%" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1816135065214809%2F&show_text=false&width=476&t=0" width="100%" height="100%" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 <img src="https://gateway.okhistory.org/ark:/67531/metadc1586127/m1/1/med_res/">
 
 <img src="https://pbs.twimg.com/media/EG1_Yv9VAAIgEYW?format=jpg">
@@ -16,6 +15,7 @@
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1XkXmvhIZzIZDIg70zaLMW?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1479281641&color=%23ff9900&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/owen-saward-117534008" title="Owen Saward" target="_blank" style="color: #cccccc; text-decoration: none;">Owen Saward</a> · <a href="https://soundcloud.com/owen-saward-117534008/sets/late-night-tales-cinematic-mix" title="Late Night Tales Cinematic Mix" target="_blank" style="color: #cccccc; text-decoration: none;">Late Night Tales Cinematic Mix</a></div>
+
 
 [The Supremes Greatest Hits | Best Songs of The Supremes - Full Album The Supremes NEW Playlist 2022](https://www.youtube.com/watch?v=9zT5syvOp3o)
 
