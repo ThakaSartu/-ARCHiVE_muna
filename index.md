@@ -7,6 +7,7 @@ One day my blog will `RETURN` `true` when run from the [command](https://www.you
 
 <img src="https://miro.medium.com/max/1400/1*stlyv9lAMc9X-22uPex7mQ.png">
 <img src="https://miro.medium.com/max/480/1*MGcLJS1ZvMFcBA94PXn16Q.png">
+<img src="https://mpng.subpng.com/20180423/lje/kisspng-vim-computer-icons-text-editor-installation-plug-i-design-works-5addb4c2314215.7668023815244791702018.jpg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" >
     
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/pvYOSuz8yG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
