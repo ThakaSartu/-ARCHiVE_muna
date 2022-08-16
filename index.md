@@ -4,10 +4,15 @@
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
 
+[The S.O.S. Band - Tell Me If You Still Care](https://www.youtube.com/watch?v=GSsTyAVP5j0)
+[Feels So Real (Won't Let Go)](https://www.youtube.com/watch?v=GJroTM6cgDM)
+[The S.O.S. Band  No One's Gonna Love You 1984](https://www.youtube.com/watch?v=3DDeZVnK2E0)
+[S.O.S. Band- Even When You Sleep](https://www.youtube.com/watch?v=aX0wGKIgSZU)
+
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 
-
+<img src="https://cdn.shopify.com/s/files/1/0902/5612/products/the_sos_band_on_the_rise_vinyl_front_cover.JPG?v=1568162842">
 <div class="twoPanelSpread">
   <div class="row">
     <div class="panelColumn">
@@ -26,11 +31,6 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
     </div>
   </div>
 </div>
-
-[The S.O.S. Band - Tell Me If You Still Care](https://www.youtube.com/watch?v=GSsTyAVP5j0)
-[Feels So Real (Won't Let Go)](https://www.youtube.com/watch?v=GJroTM6cgDM)
-[The S.O.S. Band  No One's Gonna Love You 1984](https://www.youtube.com/watch?v=3DDeZVnK2E0)
-[S.O.S. Band- Even When You Sleep](https://www.youtube.com/watch?v=aX0wGKIgSZU)
 <div class="sixpanel">
 
   <div class="item1"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
