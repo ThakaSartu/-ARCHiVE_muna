@@ -3,6 +3,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
+[52nd Street - Tell Me (Extended Vers.)](https://www.youtube.com/watch?v=3Ck25PGjlLc)
 [The S.O.S. Band - Just The Way You Like It, Mall_oF_GEORGiA_FEELiNGS](https://www.youtube.com/watch?v=4Nlr9vU0DfU)
 [SLAVE_STONE_JAM ~> Watching You](https://www.youtube.com/watch?v=xkI_yIhIk1c)
 [WEEKEND GIRL (Original Full-Length Album Version) - SOS Band](https://www.youtube.com/watch?v=8BvuSzxcE5o)
@@ -15,6 +16,25 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/JXTZ4OqQIr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+     <a href="https://youtu.be/LTz5J0VksDc" >
+<img src="https://i.discogs.com/XLRLhG8jlSWkgLYHCZOUtZt310LFJYMnxuNBTUdc52A/rs:fit/g:sm/q:90/h:549/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzkw/NzMtMTIwOTE0MTk1/OS5qcGVn.jpeg">
+</a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://youtu.be/LTz5J0VksDc" >
+<img src="https://i.discogs.com/XLRLhG8jlSWkgLYHCZOUtZt310LFJYMnxuNBTUdc52A/rs:fit/g:sm/q:90/h:549/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzkw/NzMtMTIwOTE0MTk1/OS5qcGVn.jpeg">
+</a>
+         </div>
+    </div>
+  </div>
+</div>
 <img src="https://cdn.shopify.com/s/files/1/0902/5612/products/the_sos_band_on_the_rise_vinyl_front_cover.JPG?v=1568162842">
 <div class="twoPanelSpread">
   <div class="row">
