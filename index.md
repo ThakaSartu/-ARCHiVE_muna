@@ -4,6 +4,18 @@
 One day my blog will `RETURN` `true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
+## YOUNG GUERILLERO RECENTLY IN HIDING SPEAKS TO HIS FIRST CIVILIAN LADY, HAVANA, CUBA, JANUARY 1, 1959 - from our story '“Not a Bed of Roses” – Burt Glinn’s Photos of the Cuban Revolution (1959)'
+On New Year’s Eve 1958, young Magnum photographer Burt Glinn was celebrating at a black tie party in New York. All the talk that evening was of corrupt Cuban dictator Fulgencio Batista, rumoured to be ready to flee for his life from Havana and said to have already backed his army trucks up to the treasury.
+
+Glinn borrowed $400 from Magnum president Cornell Capa, grabbed his camera gear, raced to La Guardia just in time to make the last flight to Miami. He arrived just after dawn in Havana, Batista had fled, Fidel was still hundreds of miles away, nobody knew where, Che Guevara was on his way to Havana and nobody seemed to be in charge. As Glinn said “you just can’t hail a taxi and ask the cabbie to take you to the revolution”...[ReadMore](https://flashbak.com/see-the-cuban-revolution-unfold-in-burt-glinns-photos-1959-46574/)
+
+<img src="https://flashbak.com/wp-content/uploads/2015/11/Young-22guerillero22-recently-in-hiding-speaks-to-his-first-civilian-lady-Havana-Cuba-January-1-1959.jpg">
+<img src="https://flashbak.com/wp-content/uploads/2015/11/Cuba-Burt-Glinn-1959-copy-1200x1786.jpg">
+
+
+[Iran in the 1980s - Jean Gaumy](https://www.magnumphotos.com/newsroom/jean-gaumy-iran/)
+<img src="https://content.magnumphotos.com/wp-content/uploads/2016/05/cortex/par13185-teaser-story-big.jpg">
+<img src="https://content.magnumphotos.com/wp-content/uploads/2018/04/cortex/par63-teaser-story-big.jpg">
 <img src="https://pbs.twimg.com/media/Eb2_yDoXQAM-wp8?format=jpg&name=4096x4096">
 <img src="https://miro.medium.com/max/928/1*POSNimcltkaYITMTkfg1RA.jpeg">
 <img src="https://q8x6q2v5.stackpathcdn.com/wp-content/uploads/2020/07/distress-displacement.jpg">
