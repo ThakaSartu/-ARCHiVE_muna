@@ -3,7 +3,23 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
+
+
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+     <a href="https://youtu.be/LTz5J0VksDc" ><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/133356241_1820966041398378_3042544596727577917_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=sccn5gH-tYMAX8DSrlm&_nc_ht=scontent-lax3-2.xx&oh=00_AT-qs9iR4fYh4qeH-8xzBzr3aLegq6m0j7Bxq_x_KhbuDQ&oe=632369E6"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://youtu.be/LTz5J0VksDc" ><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/133356241_1820966041398378_3042544596727577917_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=sccn5gH-tYMAX8DSrlm&_nc_ht=scontent-lax3-2.xx&oh=00_AT-qs9iR4fYh4qeH-8xzBzr3aLegq6m0j7Bxq_x_KhbuDQ&oe=632369E6"></a>
+         </div>
+    </div>
+  </div>
+</div>
 [Mos Def - Mathematics](https://www.youtube.com/watch?v=m5vw4ajnWGA)
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/133366993_1821045811390401_8101306576578830128_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=2GtODCqgnv0AX9L8_TP&_nc_ht=scontent-lax3-1.xx&oh=00_AT_c5-zSWo3TM8T3dsVMOeLlGIJ32082dmqijfZ3bbUqOw&oe=63234648">
 <div class="twoPanelSpread">
