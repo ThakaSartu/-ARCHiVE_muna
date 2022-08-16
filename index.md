@@ -5,6 +5,23 @@ One day my blog will `RETURN` `true` when run from the [command](https://www.you
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+     <a href="https://youtu.be/LTz5J0VksDc" ><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134394216_1822566301238352_2254104999385667238_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=vQkRqfEuDqYAX90T-4L&_nc_ht=scontent-lax3-1.xx&oh=00_AT_HUwtAgTboNOa2EdVuJAjp_1WSDE7VXOIuAT57A7wtkQ&oe=631FEE8C"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://youtu.be/LTz5J0VksDc" ><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134394216_1822566301238352_2254104999385667238_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=vQkRqfEuDqYAX90T-4L&_nc_ht=scontent-lax3-1.xx&oh=00_AT_HUwtAgTboNOa2EdVuJAjp_1WSDE7VXOIuAT57A7wtkQ&oe=631FEE8C"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc456bce1ebb64f08283bf2/vsco5fc456bd41267.jpg">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134409962_1824250204403295_7451209858782732429_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=E0XOFIGavMoAX_cnSCH&tn=LlHy2Qv6m3e-7RU1&_nc_ht=scontent-lax3-1.xx&oh=00_AT_iibDQqWibSwPVzJEWznoGqqXvtB-C1ai3oHaync4xrg&oe=63235928" >
 
