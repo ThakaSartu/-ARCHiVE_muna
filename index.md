@@ -10,7 +10,23 @@ On New Year’s Eve 1958, young Magnum photographer Burt Glinn was celebrating a
 Glinn borrowed $400 from Magnum president Cornell Capa, grabbed his camera gear, raced to La Guardia just in time to make the last flight to Miami. He arrived just after dawn in Havana, Batista had fled, Fidel was still hundreds of miles away, nobody knew where, Che Guevara was on his way to Havana and nobody seemed to be in charge. As Glinn said “you just can’t hail a taxi and ask the cabbie to take you to the revolution”...[ReadMore](https://flashbak.com/see-the-cuban-revolution-unfold-in-burt-glinns-photos-1959-46574/)
 
 <img src="https://flashbak.com/wp-content/uploads/2015/11/Young-22guerillero22-recently-in-hiding-speaks-to-his-first-civilian-lady-Havana-Cuba-January-1-1959.jpg">
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
 <img src="https://flashbak.com/wp-content/uploads/2015/11/Cuba-Burt-Glinn-1959-copy-1200x1786.jpg">
+<img src="https://flashbak.com/wp-content/uploads/2015/11/Cuba-Burt-Glinn-1959-copy-1200x1786.jpg">
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://soundcloud.com/deydey-79487267/kodak-black-snot-thot?si=3baf2cea5d7e4b1c9fb8ef80b96a9949&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" ><img src="https://flashbak.com/wp-content/uploads/2015/11/Cuba-Burt-Glinn-1959-copy-1200x1786.jpg">
+<img src="https://flashbak.com/wp-content/uploads/2015/11/Cuba-Burt-Glinn-1959-copy-1200x1786.jpg">
+</a>
+         </div>
+    </div>
+  </div>
+</div>
 
 
 [Iran in the 1980s - Jean Gaumy](https://www.magnumphotos.com/newsroom/jean-gaumy-iran/)
