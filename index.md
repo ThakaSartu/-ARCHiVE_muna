@@ -5,6 +5,7 @@ One day my blog will `RETURN` `true` when run from the [command](https://www.you
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134409962_1824250204403295_7451209858782732429_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=E0XOFIGavMoAX_cnSCH&tn=LlHy2Qv6m3e-7RU1&_nc_ht=scontent-lax3-1.xx&oh=00_AT_iibDQqWibSwPVzJEWznoGqqXvtB-C1ai3oHaync4xrg&oe=63235928" >
 
 ## ERiKA_TORi BUDGET = PERFECTiON
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1322634691&color=%235c5c5c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/megan-thee-stallion" title="Megan Thee Stallion" target="_blank" style="color: #cccccc; text-decoration: none;">Megan Thee Stallion</a> · <a href="https://soundcloud.com/megan-thee-stallion/budget-ft-latto" title="Budget (feat. Latto)" target="_blank" style="color: #cccccc; text-decoration: none;">Budget (feat. Latto)</a></div>
