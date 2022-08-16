@@ -5,6 +5,8 @@ One day my blog will `RETURN` `true` when run from the [command](https://www.you
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 
+
+<img src="https://q8x6q2v5.stackpathcdn.com/wp-content/uploads/2020/07/distress-displacement.jpg">
 <img src="https://miro.medium.com/max/1400/1*stlyv9lAMc9X-22uPex7mQ.png">
 <img src="https://miro.medium.com/max/480/1*MGcLJS1ZvMFcBA94PXn16Q.png">
 <img src="https://mpng.subpng.com/20180423/lje/kisspng-vim-computer-icons-text-editor-installation-plug-i-design-works-5addb4c2314215.7668023815244791702018.jpg">
