@@ -9,6 +9,9 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 <a href="https://youtu.be/ZXZOw0lwnKI"><img src="http://adb.arcadeitalia.net/media/mame.current/marquees/jpark.png?release=205"></a>
 <iframe src="https://archive.org/embed/arcade_jpark" width="100%" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=_jnG_U414y4&list=PLMHR2xnx8VCrcHUoyjvemE8T1_DMdv2U-" ><img src="http://adb.arcadeitalia.net/media/mame.current/marquees/xmvsf.png"></a>
+    <iframe src="https://archive.org/embed/arcade_xmvsf" width="100%" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+  
 <iframe src="https://archive.org/embed/arcade_dynablst" width="100%" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <iframe width="100%" height="547" src="https://www.youtube.com/embed/IlHTsCx913c" title="I Remember" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
