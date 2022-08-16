@@ -5,6 +5,7 @@ One day my blog will `RETURN` `true` when run from the [command](https://www.you
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc456bce1ebb64f08283bf2/vsco5fc456bd41267.jpg">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134409962_1824250204403295_7451209858782732429_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=E0XOFIGavMoAX_cnSCH&tn=LlHy2Qv6m3e-7RU1&_nc_ht=scontent-lax3-1.xx&oh=00_AT_iibDQqWibSwPVzJEWznoGqqXvtB-C1ai3oHaync4xrg&oe=63235928" >
 
 ## ERiKA_TORi BUDGET = PERFECTiON
