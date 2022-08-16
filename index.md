@@ -7,6 +7,25 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+     <a href="https://youtu.be/LTz5J0VksDc" >
+<img src="https://64.media.tumblr.com/b42a2f1740467cfa9d1a66f43d35f77f/cef1c71e509a404e-92/s540x810/b9888033f31845c3d65572852941c1ded4c05e78.gifv">
+</a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://youtu.be/LTz5J0VksDc" >
+<img src="https://64.media.tumblr.com/b42a2f1740467cfa9d1a66f43d35f77f/cef1c71e509a404e-92/s540x810/b9888033f31845c3d65572852941c1ded4c05e78.gifv">
+</a>
+         </div>
+    </div>
+  </div>
+</div>
 [The S.O.S. Band - Tell Me If You Still Care](https://www.youtube.com/watch?v=GSsTyAVP5j0)
 [Feels So Real (Won't Let Go)](https://www.youtube.com/watch?v=GJroTM6cgDM)
 [The S.O.S. Band  No One's Gonna Love You 1984](https://www.youtube.com/watch?v=3DDeZVnK2E0)
