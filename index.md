@@ -4,7 +4,22 @@
 One day my blog will `RETURN` `true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
-
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/170385089&color=%23cddec4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/glme" title="G" target="_blank" style="color: #cccccc; text-decoration: none;">G</a> · <a href="https://soundcloud.com/glme/candler-road-1st-half-prod-tim" title="Candler Road (1st half prod Tim Suby / 2nd half prod Childish Gambino)" target="_blank" style="color: #cccccc; text-decoration: none;">Candler Road (1st half prod Tim Suby / 2nd half prod Childish Gambino)</a></div>
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<img src="https://64.media.tumblr.com/ec59492909c5875bc4f5f2e9e94d3f20/tumblr_nj7dljUEVA1rodxovo6_640.jpg">
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://soundcloud.com/deydey-79487267/kodak-black-snot-thot?si=3baf2cea5d7e4b1c9fb8ef80b96a9949&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" ><img src="https://64.media.tumblr.com/ec59492909c5875bc4f5f2e9e94d3f20/tumblr_nj7dljUEVA1rodxovo6_640.jpg">
+</a>
+         </div>
+    </div>
+  </div>
+</div>
 <img src="https://img.artlogic.net/w_1010,h_580,c_limit/exhibit-e/57aa18be87aa2c363caf43ad/38c2f5e82855b4de51d069b78df4c08f.jpeg">
 <iframe src="https://gcp-embeds.datpiff.com/mixtape/23746/" width="100%" height="270" frameborder="0"></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/XCz2BhlS1YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
