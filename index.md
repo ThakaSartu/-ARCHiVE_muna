@@ -7,6 +7,10 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 
+[The S.O.S. Band - Tell Me If You Still Care](https://www.youtube.com/watch?v=GSsTyAVP5j0)
+[Feels So Real (Won't Let Go)](https://www.youtube.com/watch?v=GJroTM6cgDM)
+[The S.O.S. Band  No One's Gonna Love You 1984](https://www.youtube.com/watch?v=3DDeZVnK2E0)
+[S.O.S. Band- Even When You Sleep](https://www.youtube.com/watch?v=aX0wGKIgSZU)
 <div class="sixpanel">
 
   <div class="item1"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
@@ -17,10 +21,6 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
   <div class="item2"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
   <div class="item3"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
 </div>
-
-[Feels So Real (Won't Let Go)](https://www.youtube.com/watch?v=GJroTM6cgDM)
-[The S.O.S. Band  No One's Gonna Love You 1984](https://www.youtube.com/watch?v=3DDeZVnK2E0)
-[S.O.S. Band- Even When You Sleep](https://www.youtube.com/watch?v=aX0wGKIgSZU)
 <img src="https://i.scdn.co/image/ab67616d0000b2739b2afdbb9277461bcc185735">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/63DTXKZi7YdJ4tzGti1Dtr?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
