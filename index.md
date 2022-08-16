@@ -5,6 +5,7 @@ One day my blog will `RETURN` `true` when run from the [command](https://www.you
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
 
+<img src="https://img.artlogic.net/w_1010,h_580,c_limit/exhibit-e/57aa18be87aa2c363caf43ad/38c2f5e82855b4de51d069b78df4c08f.jpeg">
 <iframe src="https://gcp-embeds.datpiff.com/mixtape/23746/" width="100%" height="270" frameborder="0"></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/XCz2BhlS1YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/3fGF2eP79xeu2ABvSSfMXl?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
