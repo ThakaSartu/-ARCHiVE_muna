@@ -13,7 +13,10 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 <iframe src="https://archive.org/embed/arcade_xmvsf" width="100%" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
   
 <iframe src="https://archive.org/embed/arcade_dynablst" width="100%" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<iframe width="100%" height="547" src="https://www.youtube.com/embed/IlHTsCx913c" title="I Remember" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/IlHTsCx913c" title="I Remember" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 [52nd Street - Tell Me (Extended Vers.)](https://www.youtube.com/watch?v=3Ck25PGjlLc)
 [The S.O.S. Band - Just The Way You Like It, Mall_oF_GEORGiA_FEELiNGS](https://www.youtube.com/watch?v=4Nlr9vU0DfU)
