@@ -4,6 +4,25 @@
 One day my blog will `RETURN` `true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
+
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<img src="https://64.media.tumblr.com/23ce50b01dd6f7cd3cb286808d6be9d0/tumblr_nj7dljUEVA1rodxovo4_640.jpg">
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://soundcloud.com/deydey-79487267/kodak-black-snot-thot?si=3baf2cea5d7e4b1c9fb8ef80b96a9949&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" ><img src="https://64.media.tumblr.com/23ce50b01dd6f7cd3cb286808d6be9d0/tumblr_nj7dljUEVA1rodxovo4_640.jpg">
+</a>
+         </div>
+    </div>
+  </div>
+</div>
+
+<img src="https://images.squarespace-cdn.com/content/v1/5eb767f48e6ba97a3b58baae/1589396319935-95A8359TQ72MBXNGBYL9/faust-prevail-stoke-mural.jpeg">
 <img src="https://64.media.tumblr.com/tumblr_m93prpWQwE1qblqfzo1_500.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/screenshots/beeMdoublU.PNG">
 
