@@ -754,8 +754,7 @@ Relative position for absolute caption
  /* max-width: max-content; */
   width: 100%;
   display: grid;
-  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-  grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto auto;
   object-fit: contain;
 }
 
@@ -798,8 +797,6 @@ Relative position for absolute caption
 .twoPanelSpread {
   margin: 0px;
   padding: 0px;
-  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-
   background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp ) center repeat;
 }
 
