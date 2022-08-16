@@ -3,6 +3,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
+[The S.O.S. Band - Just The Way You Like It, Mall_oF_GEORGiA_FEELiNGS](https://www.youtube.com/watch?v=4Nlr9vU0DfU)
 [SLAVE_STONE_JAM ~> Watching You](https://www.youtube.com/watch?v=xkI_yIhIk1c)
 [WEEKEND GIRL (Original Full-Length Album Version) - SOS Band](https://www.youtube.com/watch?v=8BvuSzxcE5o)
 [HANDSTYLER::FAUST](https://faustnewyork.tumblr.com/archive)
