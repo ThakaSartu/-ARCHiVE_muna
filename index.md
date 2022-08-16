@@ -4,6 +4,29 @@
 One day my blog will `RETURN` `true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1322630917&color=%236c6c6c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/megan-thee-stallion" title="Megan Thee Stallion" target="_blank" style="color: #cccccc; text-decoration: none;">Megan Thee Stallion</a> · <a href="https://soundcloud.com/megan-thee-stallion/ungrateful-feat-key-glock" title="Ungrateful (feat. Key Glock)" target="_blank" style="color: #cccccc; text-decoration: none;">Ungrateful (feat. Key Glock)</a></div>
+<div class="expandingGallery"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/135011431_1824376414390674_516658343576780341_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=QyHtisWkmKgAX-fNcur&_nc_ht=scontent-lax3-2.xx&oh=00_AT8dKR2-dQghB1fmut2lwCiwTKhpdR3ZaJbDrvXapw81QA&oe=6322DD45" /><img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5cfc53f879eeec391e7a6730/vsco5cfc53f98b1fb.jpg" /><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134741910_1824376361057346_5760762196412101977_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=5I1Uppa3E8EAX-XA8qW&tn=LlHy2Qv6m3e-7RU1&_nc_ht=scontent-lax3-1.xx&oh=00_AT-0Bz95SjKPZ10mvaSbTfTccnaSTGBjxG_JfFZTcU6S_g&oe=6321A087" /><img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5cf3623a82fdb56e8b3b868d/vsco5cf3623bd9721.jpg" /><img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc4bb251d78313c14000007/vsco5fc4bb27bbd2e.jpg" /></div>
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5d03f25233151a2e37784775/852x1136/vsco5d03f2540aad5.jpg" >
+
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc4bb3e1d78313c1400000b/vsco5fc4bb3f86cf5.jpg">
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<img src="https://brighamyen.com/wp-content/uploads/2013/12/DSC01261.jpg">
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://soundcloud.com/deydey-79487267/kodak-black-snot-thot?si=3baf2cea5d7e4b1c9fb8ef80b96a9949&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" ><img src="https://brighamyen.com/wp-content/uploads/2013/12/DSC01261.jpg">
+</a>
+         </div>
+    </div>
+  </div>
+</div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255843065&color=%23e77c66&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/childish-gambino" title="Childish Gambino" target="_blank" style="color: #cccccc; text-decoration: none;">Childish Gambino</a> · <a href="https://soundcloud.com/childish-gambino/ii-worldstar" title="II. Worldstar" target="_blank" style="color: #cccccc; text-decoration: none;">II. Worldstar</a></div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/170385089&color=%23cddec4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/glme" title="G" target="_blank" style="color: #cccccc; text-decoration: none;">G</a> · <a href="https://soundcloud.com/glme/candler-road-1st-half-prod-tim" title="Candler Road (1st half prod Tim Suby / 2nd half prod Childish Gambino)" target="_blank" style="color: #cccccc; text-decoration: none;">Candler Road (1st half prod Tim Suby / 2nd half prod Childish Gambino)</a></div>
 <div class="twoPanelSpread">
   <div class="row">
