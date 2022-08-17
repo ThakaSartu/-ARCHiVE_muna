@@ -7,6 +7,11 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/KS6bVTYRh-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Sean Paul - I'm Still In Love With You (Official Video)](https://www.youtube.com/watch?v=AQ4TW5Z8eu0) 
+<img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/screenshots/222CAPTURE_95SOUTH_SEAN.PNG">
+<img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/screenshots/222CAPTURE95_SOUTH_LOVE_LIKE_THIS.PNG">
 <iframe width="100%" height="496" src="https://www.youtube.com/embed/AQ4TW5Z8eu0" title="Sean Paul - I'm Still In Love With You (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="496" src="https://www.youtube.com/embed/aBwvFBxf_Eg" title="95 South Whoot There It Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="twoPanelSpread">
