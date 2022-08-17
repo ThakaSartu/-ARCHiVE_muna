@@ -7,6 +7,24 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 
 
 ## DEAR_MUWA##OH_HOW_I_MISS_YOU ##
+<iframe width="100%" height="496" src="https://www.youtube.com/embed/aBwvFBxf_Eg" title="95 South Whoot There It Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+     <a href="https://youtu.be/cPz16LHTtpo" ><img src="https://i.discogs.com/KJHyx6pjSi9PWv-HEPq2q3Nu0RBeODfbor5IrKCxIcU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/My0xNTc0NjMzMDg5/LTIyMDAuanBlZw.jpeg"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://youtu.be/cPz16LHTtpo" ><img src="https://i.discogs.com/TDVVsJ7A0yE9O6GRIJMiNQGgP-sMgQ9HhsV8FwwDTc4/rs:fit/g:sm/q:90/h:466/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/My0xNTc0NjMzMTUw/LTc3MDQuanBlZw.jpeg"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+[C'mon N' Ride It (The Train)](https://www.youtube.com/watch?v=3Awey7AbXT0)
+
 <a href="https://youtu.be/ZXZOw0lwnKI"><img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/coverArt/jpark.png"></a>
 <iframe src="https://archive.org/embed/arcade_jpark" width="100%" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <a href="https://www.youtube.com/watch?v=_jnG_U414y4&list=PLMHR2xnx8VCrcHUoyjvemE8T1_DMdv2U-" ><img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/coverArt/xmvsf.png"></a>
