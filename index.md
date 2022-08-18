@@ -7,9 +7,10 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 
 
 ## DEAR_MUWA##TRY_AGAiN? iM_READY ##
-<iframe width="100%" height="670" src="https://www.youtube.com/embed/PL_zAfLNuAo" title="IN LIVING COLOR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/tzIGbCFHTok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="674" src="https://www.youtube.com/embed/vmLoiqJXorg" title="Come Back Charleston Blue 1972" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="333" src="https://www.youtube.com/embed/HY6YBu6178Y" title="What Happened To This Banned In Living Color Skit? - CH News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="333" src="https://www.youtube.com/embed/PL_zAfLNuAo" title="IN LIVING COLOR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="333" src="https://www.youtube.com/embed/tzIGbCFHTok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="333" src="https://www.youtube.com/embed/vmLoiqJXorg" title="Come Back Charleston Blue 1972" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Y1-57J8Cfzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SvBVDibOrgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
