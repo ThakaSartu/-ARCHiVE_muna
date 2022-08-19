@@ -3,6 +3,15 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/5-81gmEcsIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Half & Half S04E08 The Big How to Do & Undo It Air Date: Monday, November 14, 2005](https://www.youtube.com/watch?v=A9F6wwQLRrI)
+[The Parkers S07E04+05+06 The Parkers Full Episodes](https://www.youtube.com/watch?v=Lo670jttQ_g)
+[What's Happening !! When Daddy Comes Marching Home - What's Happening Season 1 Episode 3 + 4](https://youtu.be/ID5uU1_cCT0)
+[227 S4E1+2+3 The Whiz Kid, Hide the Star, A Funny Thing Happened on the Way to the Pageant](https://www.youtube.com/watch?v=7guUkkriZY8)
+[The Jeffersons | The First Store | Season 6 Episode 23 Full Episode | The Norman Lear Effect](https://www.youtube.com/watch?v=J0-MowBLQ7g)
+[The story of Fred and Esther](https://www.youtube.com/watch?v=NTv5QphVPag)
+
 <iframe width="100%" height="375" src="https://www.youtube.com/embed/weSOROw1TB4" title="In Living Color Season 1 Episode 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/x0pSo58K5aY" title="Cults - Go Outside (Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
