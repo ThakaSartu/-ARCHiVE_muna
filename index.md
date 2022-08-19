@@ -3,6 +3,35 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+     <a href="https://youtu.be/LTz5J0VksDc" >
+<img src="https://aperture.org/wp-content/uploads/2018/01/Magnum_Fusco.jpg">
+</a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://youtu.be/LTz5J0VksDc" >
+<img src="https://aperture.org/wp-content/uploads/2018/01/Magnum_Fusco.jpg">
+</a>
+         </div>
+    </div>
+  </div>
+</div>
+## The Racial Assimilation of America’s “First Korean War Bride”
+By Nathan Cummings
+
+
+On November 5, 1951, Life magazine published an article that claimed to profile “the first Korean war bride to arrive in America” along with her new American GI husband. Although the woman’s real name was Lee Yong Soon, the article referred to her as “Blue,” a nickname she had been given by American soldiers in Korea during her work there as a telephone operator.
+
+Life’s breathless coverage of Lee’s arrival in Seattle reflects an imminent shift in American attitudes and policy toward Asian immigrants. Only thirty years earlier, the U.S. Supreme Court had explicitly excluded foreign-born Asians from the category of “free white persons” in a series of cases...[ReadMore](https://aperture.org/editorial/framing-justice/)
+
+<hr>
+
 [The Rolling Stones - Jumpin’ Jack Flash](https://www.youtube.com/watch?v=G3dFpQzu54w)
 [The Rolling Stones - Gimme Shelter](https://www.youtube.com/watch?v=RbmS3tQJ7Os)
 
