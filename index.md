@@ -22,6 +22,7 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
     </div>
   </div>
 </div>
+
 ## The Racial Assimilation of America’s “First Korean War Bride”
 By Nathan Cummings
 
