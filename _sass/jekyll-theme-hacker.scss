@@ -154,11 +154,12 @@ header h1 {
   font-size: 3rem;
   line-height: 1.5;
   margin: 0 0 0 -40px;
-  font-family: 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+  /* font-family: 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana; */
   color: $conifer; //$header;
   /* text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
     0 0 5px rgba(181, 232, 83, 0.1),
     0 0 10px rgba(181, 232, 83, 0.1);  */
+    font-family: 'Rubik Iso', cursive;
     color: #fff;
     text-shadow:
         0 0 7px #fff,
