@@ -127,10 +127,22 @@ section {
   margin: 0 0 20px 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  margin: 0 0 20px;
-}
 
+h1, h2, h3, h4, h5, h6 {
+      color: #fff;
+      text-shadow:
+          0 0 7px #fff,
+          0 0 10px #fff,
+          0 0 21px #fff,
+          0 0 42px #0DCBFF,
+          0 0 82px #0DCBFF,
+          0 0 92px #0DCBFF,
+          0 0 102px #0DCBFF,
+          0 0 125px #0DCBFF;
+      margin: 0 0 20px;
+  /* margin: 1.03em; */  padding: 5px;
+  background: linear-gradient(135deg, #1f005c, #2c005d, #47005f, #680060, #8b0460, #ac265e, #c9475c, #df675c, #ef855e, #f89e63, #fdaf69, #ffb56b);  
+}
 li {
   line-height: 1.4 ;
 }
