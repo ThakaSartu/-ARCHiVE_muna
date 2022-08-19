@@ -3,6 +3,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
+[Type, class, and ID selectors :: mdn web docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors)
 [Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 [How To Adjust the Content, Padding, Border, and Margins of an HTML Element With CSS](https://www.digitalocean.com/community/tutorials/how-to-adjust-the-content-padding-border-and-margins-of-an-html-element-with-css)
 
