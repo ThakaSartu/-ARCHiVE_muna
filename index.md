@@ -3,6 +3,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/x0pSo58K5aY" title="Cults - Go Outside (Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Tenor Saw - Who's Gonna Help Me Praise](https://www.youtube.com/watch?v=Bx9QB8qtehQ)
 
