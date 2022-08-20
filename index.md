@@ -5,7 +5,23 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 
 
 <iframe width="100%" height="520" src="https://www.youtube.com/embed/rEUxlwb2uFI?list=FLRzX9iPJwghLYKmTEBMkWbw" title="Love & Theft" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/fbKcDDH_g5o" title="The Boondocks S01E06 The Story of Gangstalicious" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
 
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://classicalbumsundays.com/wp-content/uploads/2019/10/71eCAkU-gaL._SL1500_.jpg"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://m.media-amazon.com/images/I/81ufJLzf+fL._SL1252_.jpg"></a>
+         </div>
+    </div>
+  </div>
+</div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5-81gmEcsIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Half & Half S04E08 The Big How to Do & Undo It Air Date: Monday, November 14, 2005](https://www.youtube.com/watch?v=A9F6wwQLRrI)
