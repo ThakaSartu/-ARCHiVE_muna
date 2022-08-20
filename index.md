@@ -3,6 +3,9 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
+
+<iframe width="100%" height="520" src="https://www.youtube.com/embed/rEUxlwb2uFI?list=FLRzX9iPJwghLYKmTEBMkWbw" title="Love & Theft" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5-81gmEcsIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Half & Half S04E08 The Big How to Do & Undo It Air Date: Monday, November 14, 2005](https://www.youtube.com/watch?v=A9F6wwQLRrI)
