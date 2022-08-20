@@ -8,9 +8,12 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/fbKcDDH_g5o" title="The Boondocks S01E06 The Story of Gangstalicious" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/eAM9diyVRiM" title="Cults - Go Outside" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Soul_Food:: Play SeasameStreet&GuessWho
+
+
 ## 4JABDU&MEYU&CORAL&NiNE&CYNT&
 ## YODA&WONDF&BBleLELA_ALLMY_SEEDSetc
+## CHiLDRENS_THEATER::AUDiO_iMMERSiON
+## Soul_Food:: Play SeasameStreet&GuessWho
 <div class="twoPanelSpread">
   <div class="row">
     <div class="panelColumn">
@@ -27,6 +30,9 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
     </div>
   </div>
 </div>
+
+[https://classicalbumsundays.com/forgotten-classic-goodie-mob-soul-food/](https://classicalbumsundays.com/forgotten-classic-goodie-mob-soul-food/)
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5-81gmEcsIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Half & Half S04E08 The Big How to Do & Undo It Air Date: Monday, November 14, 2005](https://www.youtube.com/watch?v=A9F6wwQLRrI)
