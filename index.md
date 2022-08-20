@@ -4,10 +4,12 @@
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
 
-<iframe width="100%" height="200" src="https://www.youtube.com/embed/rEUxlwb2uFI?list=FLRzX9iPJwghLYKmTEBMkWbw" title="Love & Theft" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/fbKcDDH_g5o" title="The Boondocks S01E06 The Story of Gangstalicious" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Soul_Food:: Play SeasameStreet&GuessWho4JABDU&MEYU
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/fbKcDDH_g5o" title="The Boondocks S01E06 The Story of Gangstalicious" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/eAM9diyVRiM" title="Cults - Go Outside" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Soul_Food:: Play SeasameStreet&GuessWho
+## 4JABDU&MEYU&CORAL&NiNE&CYNT&YODA&WONDF&BBleLELA_etc
 <div class="twoPanelSpread">
   <div class="row">
     <div class="panelColumn">
@@ -34,6 +36,7 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 [The story of Fred and Esther](https://www.youtube.com/watch?v=NTv5QphVPag)
 
 <iframe width="100%" height="375" src="https://www.youtube.com/embed/weSOROw1TB4" title="In Living Color Season 1 Episode 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="200" src="https://www.youtube.com/embed/rEUxlwb2uFI?list=FLRzX9iPJwghLYKmTEBMkWbw" title="Love & Theft" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/x0pSo58K5aY" title="Cults - Go Outside (Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Tenor Saw - Who's Gonna Help Me Praise](https://www.youtube.com/watch?v=Bx9QB8qtehQ)
