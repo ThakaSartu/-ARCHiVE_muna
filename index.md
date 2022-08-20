@@ -9,7 +9,8 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/eAM9diyVRiM" title="Cults - Go Outside" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Soul_Food:: Play SeasameStreet&GuessWho
-## 4JABDU&MEYU&CORAL&NiNE&CYNT&YODA&WONDF&BBleLELA_etc
+## 4JABDU&MEYU&CORAL&NiNE&CYNT&
+## YODA&WONDF&BBleLELA_ALLMY_SEEDSetc
 <div class="twoPanelSpread">
   <div class="row">
     <div class="panelColumn">
