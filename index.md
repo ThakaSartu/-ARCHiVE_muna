@@ -3,6 +3,8 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
+[2 Live Crew Banned Banned In The U S A PLAY_COMFORTABLY_LOUD](https://www.youtube.com/watch?v=dFKcJIIR0yM)
+
 <iframe width="100%" height="407" src="https://www.youtube.com/embed/vfeYisk_71U" title="Goodie Mob & Big Rube - Blood" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/fbKcDDH_g5o" title="The Boondocks S01E06 The Story of Gangstalicious" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
