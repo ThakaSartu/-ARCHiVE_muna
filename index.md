@@ -3,6 +3,24 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
+<img src="https://i.ytimg.com/vi/ddNppeY520o/maxresdefault.jpg">
+<img src="https://i.ytimg.com/vi/vyvwBWjz8N8/maxresdefault.jpg">
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+       <a href="https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed/#!/PhotosVideos/Album-506573/Photo-16073847" alt="AMERiCA_IS_DYING_SLOWY_TO_PROSTITUTION"><img src="https://s3.amazonaws.com/storage.lifetributes.com/Tributes/5110628/Albums/506573/Muna-Ahmed-16073847.jpg" ></a>
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+       <a href="https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed/#!/PhotosVideos/Album-506573/Photo-16073847" alt="AMERiCA_IS_DYING_SLOWY_TO_PROSTITUTION"><img src="https://s3.amazonaws.com/storage.lifetributes.com/Tributes/5110628/Albums/506573/Muna-Ahmed-16073847.jpg" ></a>
+      </div>
+    </div>
+  </div>
+</div>
+
 [2 Live Crew Banned Banned In The U S A PLAY_COMFORTABLY_LOUD](https://www.youtube.com/watch?v=dFKcJIIR0yM)
 
 <iframe width="100%" height="407" src="https://www.youtube.com/embed/vfeYisk_71U" title="Goodie Mob & Big Rube - Blood" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
