@@ -3,6 +3,57 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
+## GRAPHiC_DESiGN_RESOURCES
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/327956090?h=6b1a4743d3&color=0099ff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<img src="https://www.oozlemedia.com/wp-content/uploads/2015/04/Oozle-Blog-Header-Jul2018.png">
+
+A grid system provides an easy way for designers to structure and present content and images in an organized, manageable, and readable way... [ReadMore](https://www.oozlemedia.com/advantages-of-grid-systems-in-web-design/)
+
+<img src="https://www.sessions.edu/wp-content/uploads/00115.jpg">
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://1.bp.blogspot.com/-_VAM9vv6woU/Xf5er3xzNcI/AAAAAAAAGeM/OOYW18zZzPEwvYXcWg9M_fsAv5cS5KsMgCNcBGAsYHQ/s1600/bring.jpg"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://1.bp.blogspot.com/-_VAM9vv6woU/Xf5er3xzNcI/AAAAAAAAGeM/OOYW18zZzPEwvYXcWg9M_fsAv5cS5KsMgCNcBGAsYHQ/s1600/bring.jpg"></a>
+         </div>
+    </div>
+  </div>
+</div>
+<a href="https://readings.design/PDF/the_elements_of_typographic_style.pdf">The Elements of Typographic Style Robert Bringhurst 1992 </a>
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/422956530?h=4a5a06de5d&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+[5 Classic Books Every Designer Should Have by Margaret Penney | November 11, 2016](https://www.sessions.edu/notes-on-design/5-classic-books-every-designer-should-have/)
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://youtu.be/iCgdf4pkvtQ"><img src="https://untappedcities.com/wp-content/uploads/2015/09/NASA-Graphics-Standard-Manual-Kickstarter-Hamish-Smyth-Jesse-Reed-Pentagram-NYC-3.jpg"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://youtu.be/iCgdf4pkvtQ"><img src="https://untappedcities.com/wp-content/uploads/2015/09/NASA-Graphics-Standard-Manual-Kickstarter-Hamish-Smyth-Jesse-Reed-Pentagram-NYC-3.jpg"></a>
+         </div>
+    </div>
+  </div>
+</div>
+<img src="https://s3.amazonaws.com/standardsmanualimages/worm/detail/nasawormbook_detail02-1600.jpg">
+
+
+[NASA Graphics Standards Manual (NHB 1430.2) (January 1976)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
+
+<img src="https://www.hotfootdesign.co.uk/wp-content/uploads/2015/11/nasa07_1.jpg">
+
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/352622777&color=%23748cac&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-557982797" title="LilFerg4real" target="_blank" style="color: #cccccc; text-decoration: none;">LilFerg4real</a> · <a href="https://soundcloud.com/user-557982797/lil-ferg-range-rover" title="LIL FERG -RANGE ROVER" target="_blank" style="color: #cccccc; text-decoration: none;">LIL FERG -RANGE ROVER</a></div>
 <img src="https://i.ytimg.com/vi/ddNppeY520o/maxresdefault.jpg">
 <img src="https://i.ytimg.com/vi/vyvwBWjz8N8/maxresdefault.jpg">
