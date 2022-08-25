@@ -2,7 +2,9 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png">
 <img src="https://people.freebsd.org/~rodrigc/doc/data/logo/logo-reverse.png">
+<img src="https://www.training-hipaa.net/wp-content/uploads/2015/10/MicrosoftCertifiedProfessional.jpg">
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ridymRugkXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/L6oPsuCI4Zk" title="The Mutiny, Part I | Mighty Morphin | Full Episode | S02 | E01 | Power Rangers Official" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://w7.pngwing.com/pngs/366/652/png-transparent-chrome-os-google-chrome-chromebook-operating-systems-web-browser-android-text-computer-logo.png">
