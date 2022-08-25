@@ -4,7 +4,7 @@
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5MfOhYcRuklBmaJRx4DkeD?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/5MfOhYcRuklBmaJRx4DkeD?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/screenshots/Screenshot%202022-08-25%207.07.28%20AM.png">
 
 
