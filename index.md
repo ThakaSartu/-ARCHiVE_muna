@@ -3,6 +3,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
 
+<img src="https://w7.pngwing.com/pngs/366/652/png-transparent-chrome-os-google-chrome-chromebook-operating-systems-web-browser-android-text-computer-logo.png">
 
 <img src="https://i.discogs.com/nPFIZLvHNvJO9m6CzSJmpyjSLrGxqlxUKWr6z0Cizqc/rs:fit/g:sm/q:90/h:368/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDY2/MjYtMTQ4MDczODYw/NC00ODg2LmpwZWc.jpeg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/6Y0nXuhGyOwmiooTwOLUgc?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
