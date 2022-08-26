@@ -2,6 +2,8 @@
 
 ## Hole To Another Universe
 
+## Baby gotta eeeat, %BEAT_DROPS
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/4ufZSKCI84Pd2ZlWTJcu4i?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/05hdZ0YRqAg6qsgV1ee3LE?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/1WnqWQcWcuQbVzgE7ecfCY?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <a href=""><img src="https://media.pitchfork.com/photos/5a09ff5c5ba42932513caa25/master/pass/CyHi%20the%20Prynce_No%20Dope%20On%20Sundays.jpg"></a>
