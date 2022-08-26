@@ -2,17 +2,11 @@
 
 ## Hole To Another Universe
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Tf1d65OHYXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## bereavemint...?
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/FRZN7IzvCVs" title="Chappelle's Show - Reparations 2003 Follow-Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/jfKfPfyJRdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-One day my blog will `RETURN true` when run from the [command](https://www.youtube.com/watch?v=LTz5J0VksDc) line!
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png">
-<img src="https://people.freebsd.org/~rodrigc/doc/data/logo/logo-reverse.png">
-<img src="https://www.training-hipaa.net/wp-content/uploads/2015/10/MicrosoftCertifiedProfessional.jpg">
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ridymRugkXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/L6oPsuCI4Zk" title="The Mutiny, Part I | Mighty Morphin | Full Episode | S02 | E01 | Power Rangers Official" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/1WnqWQcWcuQbVzgE7ecfCY?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<a href=""><img src="https://media.pitchfork.com/photos/5a09ff5c5ba42932513caa25/master/pass/CyHi%20the%20Prynce_No%20Dope%20On%20Sundays.jpg"></a>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/79yQxmlPsMM41NH3AiVSNK?utm_source=generator" width="100%" height="290" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <img src="https://w7.pngwing.com/pngs/366/652/png-transparent-chrome-os-google-chrome-chromebook-operating-systems-web-browser-android-text-computer-logo.png">
 
 <img src="https://i.discogs.com/nPFIZLvHNvJO9m6CzSJmpyjSLrGxqlxUKWr6z0Cizqc/rs:fit/g:sm/q:90/h:368/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDY2/MjYtMTQ4MDczODYw/NC00ODg2LmpwZWc.jpeg">
