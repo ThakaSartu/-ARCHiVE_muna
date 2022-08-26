@@ -8,6 +8,9 @@
 ## Hole To Another Universe
 
 
+## EriC_BURTON & WAR ~> MAGiC_MOUNTAiN
+<img scr="https://images.45cat.com/eric-burdon-and-war-magic-mountain-mgm.jpg">
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/6QtiAYvcOTFkxtpgnojTOw?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/pH9OK6hNeQQ" title="Lance Mountain Bones Brigade Video Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/1Ue9icFxzUlXm6AvdX0SV1?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <img src="https://ia903102.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/arcadeflyer_720/arcadeflyer_720_jp2.zip&file=arcadeflyer_720_jp2/arcadeflyer_720_0000.jp2&id=arcadeflyer_720&scale=2&rotate=0">
