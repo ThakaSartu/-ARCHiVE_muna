@@ -7,6 +7,11 @@
 {% endhighlight %}
 ## Hole To Another Universe
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/2eG5SbN_wVI" title="Maybelline commercial compilation[1985-1989]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Dear Muni, Im really scared for Sartu
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8Axlt8dlYYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lEYZjB7DnyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/OsYSe93eFSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="375" src="https://www.youtube.com/embed/ExXt21DDDY8" title="Ghostface Killah - Here I Go Again (feat. AZ & Rell) [Official Lyric Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/rNB5eIiIsUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/1R28m5eWk1EV9FQ3puWrUp?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
