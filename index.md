@@ -7,13 +7,13 @@
 {% endhighlight %}
 ## Hole To Another Universe
 
-## Dear Coral, 
-
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/6tDDoYIxWvMLTdKpjFkc1B?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 [All Your Visual Media, One Powerful Platform](https://imgix.com)
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/bhtG6yZTBWw" title="1957 Chevrolet Jet Ace - Original Chevy Promo Film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/pr3-sqaOWK0" title="The Corvette Stingray: Biography of a Sports Car" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/2eG5SbN_wVI" title="Maybelline commercial compilation[1985-1989]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Dear Muni, Im really scared for Sartu
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/8Axlt8dlYYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/lEYZjB7DnyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
