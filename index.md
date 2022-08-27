@@ -8,6 +8,7 @@
 {% endhighlight %}
 
 ## Hole To Another Universe
+<img src="https://d2or613lp2h38m.cloudfront.net/media/wysiwyg/boneswheels/home/2022/Bones_Gustavo_Smalls_1280x720_opt.jpg">
 ## Dear_Muna, 
 ### Please share with your parent and couple friends from Long_Beach to _alpharetta, Prostitution is killing this country, how do we solve the problem together_Los_Angeles Lets have a rep for cultivating smart, healthy, productive citizens... all else should vacate... Thats beauty
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/bzXXFsfg-x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
