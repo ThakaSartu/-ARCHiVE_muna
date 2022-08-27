@@ -14,7 +14,7 @@ I think they talkin about Sartu and or Quxube... Achemelesh should hear this wit
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/183690292&color=%234c545c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
  And if they selling her there is no way they are reciprocation to her standards or guidelines... Its scary. I smelled a studio member in 7th and metro with a group of young males and Im getting the feel that some of yall CoronaBaes be knockin down the whole squad, and there is a metamorphisis to survive that so I forgive you for OG_Adultry feelings they duped the shit out of yiou... If you can see how much of a wool they pulled over my eyes yo skinny ass dont stand a chance! Is she a Leo thats my understanding You a Gemini but I often put that on her
-<img src="https://images.theconversation.com/files/310567/original/file-20200116-181617-c3nx4x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip">
+<img src="https://thumbs.dreamstime.com/z/astrology-wheel-zodiac-signs-constellation-map-realistic-illustration-horoscope-vector-181247370.jpg">
 <img src="https://cdn.shopify.com/s/files/1/2264/7553/products/floatation_socks_1024x1024@2x.jpg">
 <div class="twoPanelSpread">
   <div class="row">
