@@ -8,6 +8,8 @@
 {% endhighlight %}
 
 ## Hole To Another Universe
+[How skateboarding became my best teacher | Sebastian Linda | TEDxDresden](https://www.youtube.com/watch?v=8QG5jGgtoDo)
+[On getting up again | Rodney Mullen | TEDxOrangeCoast](https://www.youtube.com/watch?v=DBbmNAZWq-E)
 
 <img src="https://images.footlocker.com/is/image/EBFL2/GW5658_a4?wid=2000&hei=2000&fmt=png-alpha">
 <img src="https://images.footlocker.com/is/image/EBFL2/GV8278_a3?wid=2000&hei=2000&fmt=png-alpha">
