@@ -8,6 +8,8 @@
 {% endhighlight %}
 
 ## Hole To Another Universe
+
+<img src="https://www.tactics.com/a/dp8w/1b/thunder-piscopo-screaming-skull-pro-editions-skateboard-trucks.webp">
 <img src="https://d2or613lp2h38m.cloudfront.net/media/wysiwyg/boneswheels/home/2022/Bones_Gustavo_Smalls_1280x720_opt.jpg">
 
 ## Dear_Muna, 
