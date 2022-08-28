@@ -6,6 +6,10 @@
 3 # ANOTHER###########################################MUNA
 4 # UNiVERSE##########################################MUNi
 {% endhighlight %}
+
+
+[NYPLBase The Library's rapid prototyping system and design pattern library](nypl.github.io/NYPLBase/styleguide/index.html)
+[NYPL_STYLEGUiDE]_ARCHiVE](https://web.archive.org/web/20080617044807/http://www.nypl.org/styleguide/)
 <img src="https://www.basementskate.com.au/blog/wp-content/uploads/2019/08/spitfire-charger-58mm-conical-clear-80a-skateboard-wheels.png">
 <img src="https://www.spitfirewheels.com/formulafour/img/tablets.png">
 <img src="https://images.footlocker.com/is/image/EBFL2/23652MSS_a3?wid=2000&hei=2000&fmt=png-alpha">
