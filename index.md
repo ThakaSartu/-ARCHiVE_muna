@@ -26,14 +26,15 @@ appears on Earth. The colors of the images are seen to range
 from red to yellow to brown and blue. 
 Please see the explanation for more detailed information."
 style="max-width:100%"></a>
-</center>
 
-<center>
+
+
 <b> Colors of the Moon </b> <br> 
 <b>Image Credit &
 <a href="https://apod.nasa.gov/apod/lib/about_apod.html#srapply">Copyright</a>: </b>
 <a href="https://greenflash.photo/about-me/">Marcella Giulia Pace</a>
-</center> <p> 
+
+ <p> 
 
 <b> Explanation: </b> 
 What color is the Moon?
