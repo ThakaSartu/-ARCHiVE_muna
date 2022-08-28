@@ -9,6 +9,11 @@
 
 
 
+
+
+[ALiSTAPART_Design Choices Can Cripple a Website](https://alistapart.com/article/designcancripple/)
+[ALiSTAPART_Good Designers Redesign, Great Designers Realign](https://alistapart.com/article/redesignrealign/)
+[ALiSTAPART_Designing Through the Storm](https://alistapart.com/article/throughthestorm/)
 [ALiSTAPART_Staying Motivated](https://alistapart.com/article/stayingmotivated/)
 [ALiSTAPART_Understanding Web Design](https://alistapart.com/article/understandingwebdesign/)
 [ALiSTAPART_Marry Your Clients](https://alistapart.com/article/marry-your-clients/)
