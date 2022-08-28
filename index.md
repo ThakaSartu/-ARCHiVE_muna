@@ -9,6 +9,88 @@
 
 
 
+<h1> Astronomy Picture of the Day </h1>
+<p>
+
+<a href="archivepix.html">Discover the cosmos!</a>
+Each day a different image or photograph of our fascinating universe is
+featured, along with a brief explanation written by a professional astronomer.
+<p>
+
+2022 May 15  
+<br> 
+ <a href="https://apod.nasa.gov/apod/image/2205/MoonColors_Pace_960.jpg">
+<IMG SRC="https://apod.nasa.gov/apod/image/2205/MoonColors_Pace_960.jpg"
+alt="The featured image shows many images of a full moon as it 
+appears on Earth. The colors of the images are seen to range 
+from red to yellow to brown and blue. 
+Please see the explanation for more detailed information."
+style="max-width:100%"></a>
+</center>
+
+<center>
+<b> Colors of the Moon </b> <br> 
+<b>Image Credit &
+<a href="https://apod.nasa.gov/apod/lib/about_apod.html#srapply">Copyright</a>: </b>
+<a href="https://greenflash.photo/about-me/">Marcella Giulia Pace</a>
+</center> <p> 
+
+<b> Explanation: </b> 
+What color is the Moon?
+
+It depends on the night. 
+
+Outside of the Earth's atmosphere, the 
+<a href="https://www.universetoday.com/19981/moon-albedo/">dark Moon</a>, 
+which shines by reflected sunlight, appears a 
+<a href="ap031109.html">magnificent</a>ly brown-tinged gray. 
+
+Viewed from inside the 
+<a href="https://climate.nasa.gov/news/2919/earths-atmosphere-a-multi-layered-cake/"
+>Earth's atmosphere</a>, though, the moon can appear quite different. 
+
+The <a href="https://greenflash.photo/greenflash-gallery/greenflash-gallery/portfolio/colors-of-the-moon/">featured image</a> highlights a collection of apparent colors of the full moon documented by one astrophotographer over 10 years from 
+<a href="https://youtu.be/G0EUqGhYZ6Y">different locations</a> across 
+<a href="https://en.wikipedia.org/wiki/Italy">Italy</a>.
+
+A 
+<a href="http://curious.astro.cornell.edu/about-us/46-our-solar-system/the-moon/observing-the-moon/142-why-are-the-moon-and-sun-sometimes-orange-or-red-beginner"
+>red or yellow</a> colored moon usually indicates a moon seen near the horizon. 
+
+There, some of the 
+<a href="https://spaceplace.nasa.gov/blue-sky/en/">blue light has been scattered away</a> 
+by a long path through the 
+<a href="https://scied.ucar.edu/shortcontent/earths-atmosphere">Earth's atmosphere</a>, 
+sometimes laden with fine dust.
+
+A <a href="https://www.loc.gov/everyday-mysteries/astronomy/item/what-is-a-blue-moon-is-it-ever-really-blue/">blue-colored moon</a> is more rare and 
+can indicate a moon seen through an atmosphere carrying larger dust particles. 
+
+What created the purple moon is 
+<a href="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/09/29083523/GettyImages-157531381-1024x746.jpg">unclear</a> -- 
+it may be a combination of several effects. 
+
+The last image captures the 
+<a href="ap190120.html">total lunar eclipse of 2018 July</a> -- 
+where the moon, 
+<a href="https://sservi.nasa.gov/wp-content/uploads/2014/04/si_lunar-eclipse_geometry.jpg"
+>in Earth's shadow</a>, appeared a 
+<a href="https://www.timeanddate.com/eclipse/why-does-moon-look-red-lunar-eclipse.html"
+>faint red</a> -- due to light 
+<a href="https://www.sciencelearn.org.nz/resources/49-refraction-of-light"
+>refracted</a> through 
+<a href="ap220417.html">air</a> around the 
+<a href="https://solarsystem.nasa.gov/planets/earth/overview/">Earth</a>.
+
+
+Today there is not only another full moon but a 
+<a href="https://www.timeanddate.com/eclipse/lunar/2022-may-16"
+>total lunar eclipse</a> visible to observers
+in <a href="https://en.wikipedia.org/wiki/North_America">North</a> and 
+<a href="https://en.wikipedia.org/wiki/South_America">South America</a> -- 
+an occurrence that may lead to some 
+<a href="ap211201.html">unexpected lunar colorings</a>.
+
 
 [ALiSTAPART_The Bathing Ape Has No Clothes (and other notes on the distinction between style and design)](https://alistapart.com/article/bathingape/)
 [ALiSTAPART_Design Choices Can Cripple a Website](https://alistapart.com/article/designcancripple/)
