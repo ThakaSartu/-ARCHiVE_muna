@@ -8,6 +8,7 @@
 {% endhighlight %}
 
 [ALiSTAPART_Immersive Content Strategy](https://alistapart.com/article/immersive-content-strategy/)
+[ALiSTAPART_Designing Inclusive Content Models](https://alistapart.com/article/designing-inclusive-content-models/)
 [NYPLBase The Library's rapid prototyping system and design pattern library](nypl.github.io/NYPLBase/styleguide/index.html)
 [NYPL_STYLEGUiDE]_ARCHiVE](https://web.archive.org/web/20080617044807/http://www.nypl.org/styleguide/)
 <img src="https://www.basementskate.com.au/blog/wp-content/uploads/2019/08/spitfire-charger-58mm-conical-clear-80a-skateboard-wheels.png">
