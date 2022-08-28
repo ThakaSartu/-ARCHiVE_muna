@@ -10,7 +10,7 @@
 
 
 
-
+[ALiSTAPART_The Bathing Ape Has No Clothes (and other notes on the distinction between style and design)](https://alistapart.com/article/bathingape/)
 [ALiSTAPART_Design Choices Can Cripple a Website](https://alistapart.com/article/designcancripple/)
 [ALiSTAPART_Good Designers Redesign, Great Designers Realign](https://alistapart.com/article/redesignrealign/)
 [ALiSTAPART_Designing Through the Storm](https://alistapart.com/article/throughthestorm/)
