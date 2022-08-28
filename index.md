@@ -6,7 +6,7 @@
 3 # ANOTHER###########################################MUNA
 4 # UNiVERSE##########################################MUNi
 {% endhighlight %}
-
+<img src="https://www.spitfirewheels.com/formulafour/img/tablets.png">
 <img src="https://images.footlocker.com/is/image/EBFL2/23652MSS_a3?wid=2000&hei=2000&fmt=png-alpha">
 <img src="https://images.footlocker.com/is/image/EBFL2/1B021002_a5?wid=2000&hei=2000&fmt=png-alpha">
 <img src="https://images.footlocker.com/is/image/EBFL2/1B021002_a5?wid=2000&hei=2000&fmt=png-alpha">
