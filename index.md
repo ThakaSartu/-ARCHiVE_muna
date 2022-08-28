@@ -7,6 +7,7 @@
 4 # UNiVERSE##########################################MUNi
 {% endhighlight %}
 
+<IMG src="https://1.bp.blogspot.com/-_Qy2QjDMc8Q/WJNjPiGhWAI/AAAAAAAAbEM/N2Mjd7ZxEZMhV0uk2fk3Ti7A2Bbpd-NfgCLcB/s1600/Tallulah%2BBankhead%252C%2B1936%2Bpor%2BGeorge%2BHurrell.jpg">
 
 [ALiSTAPART_The Bathing Ape Has No Clothes (and other notes on the distinction between style and design)](https://alistapart.com/article/bathingape/)
 [ALiSTAPART_Design Choices Can Cripple a Website](https://alistapart.com/article/designcancripple/)
