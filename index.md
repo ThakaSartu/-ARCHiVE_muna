@@ -15,9 +15,9 @@
 <a href="archivepix.html">Discover the cosmos!</a>
 Each day a different image or photograph of our fascinating universe is
 featured, along with a brief explanation written by a professional astronomer.
-<p>
 
-2022 May 15  
+
+## 2022 May 15  
 <br> 
  <a href="https://apod.nasa.gov/apod/image/2205/MoonColors_Pace_960.jpg">
 <IMG SRC="https://apod.nasa.gov/apod/image/2205/MoonColors_Pace_960.jpg"
