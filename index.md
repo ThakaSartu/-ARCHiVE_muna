@@ -7,15 +7,30 @@
 4 # UNiVERSE##########################################MUNi
 {% endhighlight %}
 
-## The Untapped Power of Vulnerability & Transparency in Content Strategy
 
-In marketing, transparency and vulnerability are unjustly stigmatized. The words conjure illusions of being frightened, imperfect, and powerless. And for companies that shove carefully curated personas in front of users, little is more terrifying than losing control of how people perceive the brand...[ReadMore](https://alistapart.com/article/the-untapped-power-of-vulnerability-transparency-in-content-strategy/)
 
+[ALiSTAPART_Staying Motivated](https://alistapart.com/article/stayingmotivated/)
+[ALiSTAPART_Understanding Web Design](https://alistapart.com/article/understandingwebdesign/)
+[ALiSTAPART_Marry Your Clients](https://alistapart.com/article/marry-your-clients/)
+[ALiSTAPART_Personality in Design](https://alistapart.com/article/personality-in-design/)
+[ALiSTAPART_Before You Hire Designers](https://alistapart.com/article/before-you-hire-designers/)
+[ALiSTAPART_Planning for Accessibility](https://alistapart.com/article/planning-for-accessibility/)
 [ALiSTAPART_Trans-inclusive Design](https://alistapart.com/article/trans-inclusive-design/)
 [ALiSTAPART_Immersive Content Strategy](https://alistapart.com/article/immersive-content-strategy/)
 [ALiSTAPART_Designing Inclusive Content Models](https://alistapart.com/article/designing-inclusive-content-models/)
 [NYPLBase The Library's rapid prototyping system and design pattern library](nypl.github.io/NYPLBase/styleguide/index.html)
 [NYPL_STYLEGUiDE]_ARCHiVE](https://web.archive.org/web/20080617044807/http://www.nypl.org/styleguide/)
+
+## Demystifying Design
+
+by Jeff GothelfSeptember 20, 2011
+Mystifying design with jargon only we understand makes us feel like heroes and creates a sense of job security. But it also creates an “us and them” atmosphere which excludes non-designers, obscures the true value of design, and generates antagonism when only cooperation will yield the best product. By revealing our process and inviting others into our world, we can create a team that is invested in the success of our work, and deliver better design. Jeff Gothelf discusses the steps we can take to increase the value of our practice and of ourselves as practitioners...[ReadMore](https://alistapart.com/article/demystifying-design/)
+
+
+## The Untapped Power of Vulnerability & Transparency in Content Strategy
+
+In marketing, transparency and vulnerability are unjustly stigmatized. The words conjure illusions of being frightened, imperfect, and powerless. And for companies that shove carefully curated personas in front of users, little is more terrifying than losing control of how people perceive the brand...[ReadMore](https://alistapart.com/article/the-untapped-power-of-vulnerability-transparency-in-content-strategy/)
+
 <img src="https://www.basementskate.com.au/blog/wp-content/uploads/2019/08/spitfire-charger-58mm-conical-clear-80a-skateboard-wheels.png">
 <img src="https://www.spitfirewheels.com/formulafour/img/tablets.png">
 <img src="https://images.footlocker.com/is/image/EBFL2/23652MSS_a3?wid=2000&hei=2000&fmt=png-alpha">
