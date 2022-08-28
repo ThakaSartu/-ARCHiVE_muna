@@ -8,25 +8,6 @@
 {% endhighlight %}
 
 
-
-<h1> Astronomy Picture of the Day </h1>
-<p>
-
-<a href="archivepix.html">Discover the cosmos!</a>
-Each day a different image or photograph of our fascinating universe is
-featured, along with a brief explanation written by a professional astronomer.
-
-
-## 2022 May 15  
-<br> 
- <a href="https://apod.nasa.gov/apod/image/2205/MoonColors_Pace_960.jpg">
-<IMG SRC="https://apod.nasa.gov/apod/image/2205/MoonColors_Pace_960.jpg"
-alt="The featured image shows many images of a full moon as it 
-appears on Earth. The colors of the images are seen to range 
-from red to yellow to brown and blue. 
-Please see the explanation for more detailed information."
-style="max-width:100%">
-
 [ALiSTAPART_The Bathing Ape Has No Clothes (and other notes on the distinction between style and design)](https://alistapart.com/article/bathingape/)
 [ALiSTAPART_Design Choices Can Cripple a Website](https://alistapart.com/article/designcancripple/)
 [ALiSTAPART_Good Designers Redesign, Great Designers Realign](https://alistapart.com/article/redesignrealign/)
@@ -42,6 +23,16 @@ style="max-width:100%">
 [ALiSTAPART_Designing Inclusive Content Models](https://alistapart.com/article/designing-inclusive-content-models/)
 [NYPLBase The Library's rapid prototyping system and design pattern library](nypl.github.io/NYPLBase/styleguide/index.html)
 [NYPL_STYLEGUiDE]_ARCHiVE](https://web.archive.org/web/20080617044807/http://www.nypl.org/styleguide/)
+
+
+<h1> Astronomy Picture of the Day </h1>
+
+<IMG SRC="https://apod.nasa.gov/apod/image/2205/MoonColors_Pace_960.jpg"
+alt="The featured image shows many images of a full moon as it 
+appears on Earth. The colors of the images are seen to range 
+from red to yellow to brown and blue. 
+Please see the explanation for more detailed information."
+style="max-width:100%">
 
 ## Demystifying Design
 
