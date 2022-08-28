@@ -7,6 +7,11 @@
 4 # UNiVERSE##########################################MUNi
 {% endhighlight %}
 
+## The Untapped Power of Vulnerability & Transparency in Content Strategy
+
+In marketing, transparency and vulnerability are unjustly stigmatized. The words conjure illusions of being frightened, imperfect, and powerless. And for companies that shove carefully curated personas in front of users, little is more terrifying than losing control of how people perceive the brand...[ReadMore](https://alistapart.com/article/the-untapped-power-of-vulnerability-transparency-in-content-strategy/)
+
+[ALiSTAPART_Trans-inclusive Design](https://alistapart.com/article/trans-inclusive-design/)
 [ALiSTAPART_Immersive Content Strategy](https://alistapart.com/article/immersive-content-strategy/)
 [ALiSTAPART_Designing Inclusive Content Models](https://alistapart.com/article/designing-inclusive-content-models/)
 [NYPLBase The Library's rapid prototyping system and design pattern library](nypl.github.io/NYPLBase/styleguide/index.html)
