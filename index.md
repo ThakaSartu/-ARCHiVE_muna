@@ -8,6 +8,11 @@
 {% endhighlight %}
 
 
+
+## MUNA_THEY_HACKED_US
+The iframes work when Im not logged in, I do have a german email address, but thats really unprofessional to judge the users location by email address... and I cant get work or social security... Just ask yourself what were the people in yo stank ass ABC tribe doing in the dark? What is Matt Field and Sever an Vedo doin in the dark? Because this is ##MALiCiOUS_iNCOMPETENCE 
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/bubblegumfm/master/assets/images/HACKED.PNG">
+
 ## Dearr Muna, 
 ### Im in LongBeach at BillyJean, and Transformers is scrambled like Quxube's videos... 
 I can work and such but these political issues are over my head... The blackballing is insane. No one cares about the Social_BestBuy_Technology_Section_Media. Det_SHiT_BORiNG and they mad I can entertain myself as I work through the prostitution of our dance studio, I love you
