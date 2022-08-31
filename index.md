@@ -7,6 +7,15 @@
 4 # UNiVERSE##########################################MUNi
 {% endhighlight %}
 
+
+## Dearr Muna, 
+### Im in LongBeach at BillyJean, and Transformers is scrambled like Quxube's videos... 
+I can work and such but these political issues are over my head... The blackballing is insane. No one cares about the Social_BestBuy_Technology_Section_Media. Det_SHiT_BORiNG and they mad I can entertain myself as I work through the prostitution of our dance studio, I love you
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/screenshots/TRANSFORMERS_IS_SCRAMBLED_AFTER_WE_WATCHED_IT_FAMiLYTiME1.PNG">
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/screenshots/TRANSFORMERS_IS_SCRAMBLED_AFTER_WE_WATCHED_IT_FAMiLYTiME.PNG">
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1MRyz2eNPJqOhArrP6vcDw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## GREYSCALE_MUNA_oops_MUNi
 <IMG src="https://s.yimg.com/ny/api/res/1.2/EG0hknBx2oyObsq9GbchOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/XFIMgZRk72_LwiDMgXroAQ--~B/aD00MjA7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/vibe_128/a5c29fbf681a0f796e160553340f31e6">
 
