@@ -7,6 +7,14 @@
 4 # UNiVERSE##########################################MUNi
 {% endhighlight %}
 
+## GREYSCALE_MUNA_oops_MUNi
+<IMG src="https://s.yimg.com/ny/api/res/1.2/EG0hknBx2oyObsq9GbchOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/XFIMgZRk72_LwiDMgXroAQ--~B/aD00MjA7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/vibe_128/a5c29fbf681a0f796e160553340f31e6">
+
+## Dear MuwaH
+Hi lady [BUBBLEGUMFM](https://thakarashard.github.io/bubblegumfm/), has an issue, some of the albums I posted for our audiance to check out... as you know from my perspective its just Dance411_Survivors, the Cohabitation9, and the Children none of whom Ive named... are displaying an error "Page not available
+This content is not available in your country.", But I can listen on the web player... How much [DefJam](https://www.defjam.com/muni-long-supergiant-records-join-partnership-with-def-jam-recordings/#/) ganked yo weak ass fo?
+<a src="https://open.spotify.com/track/2eNSieyqDoZMa3yOSagR4q?si=df206c2723094adf"><IMG src="https://raw.githubusercontent.com/ThakaRashard/bubblegumfm/master/assets/images/MUWAH.PNG"></a>
+
 <IMG src="https://1.bp.blogspot.com/-_Qy2QjDMc8Q/WJNjPiGhWAI/AAAAAAAAbEM/N2Mjd7ZxEZMhV0uk2fk3Ti7A2Bbpd-NfgCLcB/s1600/Tallulah%2BBankhead%252C%2B1936%2Bpor%2BGeorge%2BHurrell.jpg">
 
 [ALiSTAPART_The Bathing Ape Has No Clothes (and other notes on the distinction between style and design)](https://alistapart.com/article/bathingape/)
