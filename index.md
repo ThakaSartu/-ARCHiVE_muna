@@ -7,6 +7,21 @@
 4 # UNiVERSE##########################################MUNi
 {% endhighlight %}
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6?si=mhN1Q0fKSRK2ioN8i4Z7ow"  target="_blank"><img src="https://i.pinimg.com/originals/44/d9/e4/44d9e41602e245ace6a2d22a7b0ea90d.jpg"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf?si=mGpR_KlEQ8GF6HqpAv2aQA"  target="_blank"><img src="https://i.pinimg.com/originals/44/d9/e4/44d9e41602e245ace6a2d22a7b0ea90d.jpg"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
 
 [Orbital - Halcyon Extended Version (Official Music Video)](https://www.youtube.com/watch?v=OO-jHGCX2Gc) 
 
@@ -1144,6 +1159,7 @@ Sound great and as good as I expected. Still working on the positioning and I ha
     </div>
   </div>
 </div>
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/488087001&color=%23edeceb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bahamadia" title="Bahamadia" target="_blank" style="color: #cccccc; text-decoration: none;">Bahamadia</a> · <a href="https://soundcloud.com/bahamadia/dialed-up-vol-2-feat-ohene" title="Dialed Up Vol. 2 (feat. Ohene Savant, Dave ghetto, Rasco, Groove Da Moast, Kev Brown, Prozack Turner, Fat Nice, Geechie Suede, &amp; Zumi)" target="_blank" style="color: #cccccc; text-decoration: none;">Dialed Up Vol. 2 (feat. Ohene Savant, Dave ghetto, Rasco, Groove Da Moast, Kev Brown, Prozack Turner, Fat Nice, Geechie Suede, &amp; Zumi)</a></div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/488311404&color=%23bf3d2d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bahamadia" title="Bahamadia" target="_blank" style="color: #cccccc; text-decoration: none;">Bahamadia</a> · <a href="https://soundcloud.com/bahamadia/pep-talk" title="Pep Talk" target="_blank" style="color: #cccccc; text-decoration: none;">Pep Talk</a></div>
 [Teens have abandoned Facebook, Pew study says ::: by, Amanda Silberling](https://techcrunch.com/2022/08/11/teens-abandoned-facebook-pew-study/)
