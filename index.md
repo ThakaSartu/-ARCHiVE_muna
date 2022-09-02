@@ -1,4 +1,5 @@
-
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/191848426&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 15px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; ;"><a href="https://soundcloud.com/the-nola-music-fiend" title="Slo.Mocean" target="_blank" style="color: #cccccc; text-decoration: none;">Slo.Mocean</a> · <a href="https://soundcloud.com/the-nola-music-fiend/lil-fly-slangin-rocks-pt-1" title="Lil Fly - Slangin Rocks pt 1" target="_blank" style="color: #cccccc; text-decoration: none;">Lil Fly - Slangin Rocks pt 1</a></div>
+<IMG src="https://i.discogs.com/A9k0KAN18pZ9vf-eMNczTP33PMeXJ9kHjIAjOiEN9cg/rs:fit/g:sm/q:90/h:323/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzQ4/OTAtMTYzMTEwNjkz/OC00MTYxLmpwZWc.jpeg">
 
 [GitHub’s Path to 128M Public Repositories](https://towardsdatascience.com/githubs-path-to-128m-public-repositories-f6f656ab56b1)
 [Free Jekyll themes for 2022: Ten great community options](https://cloudcannon.com/blog/free-jekyll-themes-for-2022/)
