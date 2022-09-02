@@ -1,10 +1,14 @@
 
 
 
+
+<IMG src="https://thehackernews.com/images/-HlqWtiX8whg/VFSbvOvqacI/AAAAAAAAg2o/tZFtLvm-Zfg/s728/facebook-secure-tor-anonymous.jpg">
+
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/6wXDDAl8ZgZainRC5hH6O9?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://thehackernews.com/images/-E3Po--hbeX8/VFSgoo_z2-I/AAAAAAAAg24/XjQc1bz2aig/s728/tor-facebook.png">
 
 ## Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address
+[Why Facebook Just Launched Its Own 'Dark Web' Site Now the world's least anonymous website (Facebook) has just joined the Web's most anonymous network (Tor).](https://www.wired.com/2014/10/facebook-tor-dark-site/)
 [Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address](https://thehackernews.com/2014/10/facebook-now-accessible-via-tor.html?_m=3n.009a.748.sk0aof3tqt.fmx)
 [Facebook opens up to anonymous Tor users with .onion address  THiS_Article is more than 7 years old ](https://www.theguardian.com/technology/2014/oct/31/facebook-anonymous-tor-users-onion)
 [facebookcorewwwi.onion is this a joke or something?](https://www.reddit.com/r/facebook/comments/kakwfk/facebookcorewwwionion_is_this_a_joke_or_something/)
